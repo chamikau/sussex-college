@@ -13,8 +13,8 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_e86cb456 from 'nuxt_plugin_plugin_e86cb456' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_axios_19937178 from 'nuxt_plugin_axios_19937178' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_plugin_30dc8d1d from 'nuxt_plugin_plugin_30dc8d1d' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_axios_009104c0 from 'nuxt_plugin_axios_009104c0' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_vcalendar_5419a6aa from 'nuxt_plugin_vcalendar_5419a6aa' // Source: ..\\plugins\\v-calendar.js (mode: 'client')
 import nuxt_plugin_mixinCommonMethods_b0161b88 from 'nuxt_plugin_mixinCommonMethods_b0161b88' // Source: ..\\plugins\\mixinCommonMethods (mode: 'client')
 import nuxt_plugin_axios_3566aa80 from 'nuxt_plugin_axios_3566aa80' // Source: ..\\plugins\\axios (mode: 'client')
@@ -25,7 +25,7 @@ import nuxt_plugin_multiselect_313c8b82 from 'nuxt_plugin_multiselect_313c8b82' 
 import nuxt_plugin_vuedraggable_11e72f9a from 'nuxt_plugin_vuedraggable_11e72f9a' // Source: ..\\plugins\\vuedraggable.js (mode: 'client')
 import nuxt_plugin_vaporfileupload_3df0d660 from 'nuxt_plugin_vaporfileupload_3df0d660' // Source: ..\\plugins\\vapor-file-upload.js (mode: 'client')
 import nuxt_plugin_toast_bdf93834 from 'nuxt_plugin_toast_bdf93834' // Source: ..\\plugins\\toast.js (mode: 'client')
-import nuxt_plugin_auth_4ee028b8 from 'nuxt_plugin_auth_4ee028b8' // Source: .\\auth.js (mode: 'all')
+import nuxt_plugin_auth_03bf0c70 from 'nuxt_plugin_auth_03bf0c70' // Source: .\\auth.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -220,12 +220,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_e86cb456 === 'function') {
-    await nuxt_plugin_plugin_e86cb456(app.context, inject)
+  if (typeof nuxt_plugin_plugin_30dc8d1d === 'function') {
+    await nuxt_plugin_plugin_30dc8d1d(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_19937178 === 'function') {
-    await nuxt_plugin_axios_19937178(app.context, inject)
+  if (typeof nuxt_plugin_axios_009104c0 === 'function') {
+    await nuxt_plugin_axios_009104c0(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_vcalendar_5419a6aa === 'function') {
@@ -268,8 +268,8 @@ async function createApp(ssrContext, config = {}) {
     await nuxt_plugin_toast_bdf93834(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_auth_4ee028b8 === 'function') {
-    await nuxt_plugin_auth_4ee028b8(app.context, inject)
+  if (typeof nuxt_plugin_auth_03bf0c70 === 'function') {
+    await nuxt_plugin_auth_03bf0c70(app.context, inject)
   }
 
   // Lock enablePreview in context
