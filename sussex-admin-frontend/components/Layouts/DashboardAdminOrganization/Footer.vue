@@ -11,7 +11,7 @@
           <ul class="list-inline list-inline-dots mb-0">
             <li class="list-inline-item">
               Copyright &copy; 2024
-              <a class="link-secondary" href=".">Moxybase</a>.
+              <a class="link-secondary" href=".">Sussex</a>.
               All rights reserved.
             </li>
 <!--            <li class="list-inline-item">-->

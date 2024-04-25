@@ -1,34 +1,19 @@
 export const patient_app_url = 'https://patient-primed-ehr.10qbit.com/'
 
-// export const record_types_with_description = [
-//   { name: 'Notes', value: 'NOTES', errors: [],
-//     description: [{ key: 'Title', value: '' }, { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Prescriptions', value: 'PRESCRIPTIONS', errors: [],
-//     description: [{ key: 'Title', value: '' }, { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Allergy', value: 'ALLERGY', errors: [],
-//     description: [ { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Medications', value: 'MEDICATIONS', errors: [],
-//     description: [ { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Surgical history', value: 'SURGICAL_HISTORY', errors: [],
-//     description: [ { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Medical history', value: 'MEDICAL_HISTORY', errors: [],
-//     description: [ { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Family history', value: 'FAMILY_HISTORY', errors: [],
-//     description: [{ key: 'Relationship', value: '' }, { key: 'Condition', value: '' } ]
-//   },
-//   { name: 'Vaccine', value: 'VACCINE', errors: [],
-//     description: [ { key: 'Description', value: '' } ]
-//   },
-//   { name: 'Measure', value: 'MEASURE', errors: [],
-//     description: [{ key: 'Measurement Type', value: '' }, { key: 'Value', value: '' } ]
-//   },
-// ]
+export const grade_list = [
+  { name: 'grade 1', value: '1' },
+  { name: 'grade 2', value: '2' },
+  { name: 'grade 3', value: '3' },
+  { name: 'grade 4', value: '4' },
+  { name: 'grade 5', value: '5' },
+  { name: 'grade 6', value: '6' },
+  { name: 'grade 7', value: '7' },
+  { name: 'grade 8', value: '8' },
+  { name: 'grade 9', value: '9' },
+  { name: 'grade 10', value: '10' },
+  { name: 'grade 11', value: '11' },
+  { name: 'grade 12', value: '12' },
+]
 
 export const record_types = [
   { name: 'All'},

@@ -13,23 +13,32 @@
             <div class="card-body"><h3 class="card-title">Filters</h3>
               <div class="row test-1">
                 <div class="col-md-4">
-                  <lable class="form-label">Student Title</lable>
+                  <lable class="form-label">PRG No</lable>
                   <input
-                    v-model="attributes.filters['filter[title]']"
+                    v-model="attributes.filters['filter[prg_no]']"
                     @keyup="filterUpdates"
                     type="text"
                     class="form-control"
-                    placeholder="Search job title">
+                    placeholder="Search prg no">
                 </div>
                 <div class="col-md-4">
-                  <lable class="form-label">Status</lable>
+                  <lable class="form-label">Name</lable>
+                  <input
+                    v-model="attributes.filters['filter[search]']"
+                    @keyup="filterUpdates"
+                    type="text"
+                    class="form-control"
+                    placeholder="Search name">
+                </div>
+                <div class="col-md-4">
+                  <lable class="form-label">Grade</lable>
                   <Select
-                    :attributes="job_state_attributes"
-                    @selectUpdates="selectJobState"
-                    @queryUpdates="getJobStateList"
-                    placeholder="Search status"
+                    :attributes="grade_attributes"
+                    @selectUpdates="selectGradeState"
+                    @queryUpdates="getGradeList"
+                    placeholder="Search grade"
                   >
-                  </Select>
+                  </Select>{{grade_attributes}}
                 </div>
               </div>
             </div>
@@ -58,11 +67,8 @@
               </div>
               <div class="contents">
                 <Table :attributes="attributes" @inputUpdates="inputUpdates">
-                  <template v-slot:state="props">
-                    <span class="badge"
-                          :class="'bg-' + (state_with_colors.find((x)=>x.state === props.record.state)).color + '-lt'">{{
-                        props.record.state
-                      }}</span>
+                  <template v-slot:name="props">
+                    {{props.record.first_name + ' ' + props.record.last_name}}
                   </template>
                   <template v-slot:action="props">
                     <button
@@ -86,7 +92,7 @@
 </template>
 
 <script>
-import {state_with_colors, job_state_list} from '@/constants/constants.js';
+import {state_with_colors, grade_list} from '@/constants/constants.js';
 
 
 export default {
@@ -95,8 +101,8 @@ export default {
   data() {
     return {
       state_with_colors,
-      job_state_list,
-      job_state_attributes: {
+      grade_list,
+      grade_attributes: {
         data: [],
         selected: {}
       },
@@ -107,9 +113,10 @@ export default {
         cache: false,
         loading: false,
         labels: [
-          {key: 'first_name', name: 'Name', sort: true},
-          {key: 'phone_number_1', name: 'Phone Number', sort: true},
-          {key: 'email', name: 'email', sort: true},
+          {key: 'prg_no', name: 'PRG No', sort: true},
+          {key: 'name', name: 'Name', sort: true},
+          {key: 'email', name: 'Email', sort: true},
+          {key: 'grade', name: 'Grade', sort: true},
           {key: 'action', name: 'Action'},
         ],
         api_response: {},
@@ -144,12 +151,13 @@ export default {
         return error;
       }
     },
-    selectJobState() {
-      this.attributes.filters['filter[state]'] = this.job_state_attributes.selected.value;
+    selectGradeState() {
+      this.attributes.filters['filter[grade]'] = this.grade_attributes.selected.value;
       this.filterUpdates()
     },
-    getJobStateList() {
-      this.job_state_attributes.data = this.job_state_list
+    getGradeList() {
+      console.log('sdfs')
+      this.grade_attributes.data = this.grade_list
     },
     inputUpdates(values) {
       this.attributes.table_component_values = values;
@@ -161,7 +169,7 @@ export default {
     },
     filterClear() {
       this.attributes.filters = {}
-      this.job_state_attributes.selected = {}
+      this.grade_attributes.selected = {}
       this.getStudents()
     }
   },

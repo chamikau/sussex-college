@@ -26,12 +26,15 @@ class StudentController extends Controller
     public function index()
     {
         return QueryBuilder::for(Student::with('bookOrder','attendance'))
-            ->allowedFilters(['first_name', 'last_name',
-                AllowedFilter::custom(
-                    'search',
-                    new FuzzyFilter(
-                        'name',
-                    ))])
+            ->allowedFilters(['prg_no', 'grade','first_name', 'last_name',
+                AllowedFilter::callback('search', function ($query, $value) {
+                    $query->where(function ($query) use ($value) {
+                        $query->where('first_name', 'like', '%' . $value . '%')
+                            ->orWhere('last_name', 'like', '%' . $value . '%')
+                            ->orWhereRaw("concat(first_name,' ', last_name) like '%" . $value . "%' ");
+                    });
+                }),
+                ])
             ->allowedSorts('id')
             ->paginate(request('per_page') <= 200 ? request('per_page') : 15);
     }
