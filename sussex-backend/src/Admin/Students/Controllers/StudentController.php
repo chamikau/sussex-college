@@ -25,7 +25,7 @@ class StudentController extends Controller
      */
     public function index()
     {
-        return QueryBuilder::for(Student::with('educations'))
+        return QueryBuilder::for(Student::with('bookOrder','attendance'))
             ->allowedFilters(['first_name', 'last_name',
                 AllowedFilter::custom(
                     'search',
@@ -42,7 +42,7 @@ class StudentController extends Controller
      */
     public function show(int $id)
     {
-        $student = Student::with('educations.fieldOfStudyTypes','certifications','projects')
+        $student = Student::with('attendance','bookOrder')
         ->findOrFail($id);
         return new \Admin\Students\Resources\StudentResource($student);
     }

@@ -17,12 +17,6 @@ return new class extends Migration {
             $table->id();
             $table->string('uuid');
             $table->foreignIdFor(Admin::class)->constrained();
-//            $table->unsignedBigInteger('admin_id')->nullable();
-//            $table->foreign('admin_id')->references('id')->on('admins');
-            $table->unsignedBigInteger('industry_type_id')->nullable();
-            $table->foreign('industry_type_id')->references('id')->on('industry_types');
-            $table->unsignedBigInteger('city_id')->nullable();
-            $table->foreign('city_id')->references('id')->on('cities');
             $table->string('name');
             $table->longText('about_the_company');
             $table->string('social_links')->nullable();

@@ -1,9 +1,6 @@
 <?php
 
-use Admin\Students\Controllers\StudentCertificatoinController;
 use Admin\Students\Controllers\StudentController;
-use Admin\Students\Controllers\StudentEducationController;
-use Admin\Students\Controllers\StudentProjectController;
 use Illuminate\Support\Facades\Route;
 
 
@@ -20,9 +17,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::apiResource('/students', StudentController::class);
 
-Route::apiResource('/educations', StudentEducationController::class);
-Route::apiResource('/projects', StudentProjectController::class);
-Route::apiResource('/certifications',StudentCertificatoinController::class);
 
 
 

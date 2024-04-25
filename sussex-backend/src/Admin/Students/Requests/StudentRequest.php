@@ -26,8 +26,7 @@ class StudentRequest extends FormRequest
         return [
             'first_name' => 'required',
             'last_name' => 'required',
-            'phone_number_1' => 'required|regex:/^\+?[0-9\-]+$/|min:10|max:15',
-            'phone_number_2' => 'required|regex:/^\+?[0-9\-]+$/|min:10|max:15',
+            'grade' => 'required',
             'email'=> 'required|email|max:255'
         ];
     }
@@ -35,10 +34,6 @@ class StudentRequest extends FormRequest
     public function messages(): array
     {
         return [
-            'phone_number_1.required' => 'The phone number field is required.',
-            'phone_number_1.min' => 'The phone number must be at least 10 characters.',
-            'phone_number_1.max' => 'The phone number must not be greater than 15 characters.',
-            'phone_number_1.regex' => 'The phone number must contain only numbers.'
         ];
     }
 

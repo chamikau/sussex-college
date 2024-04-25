@@ -1,4 +1,4 @@
-# moxybase-fe
+# sussex-fe
 
 ## Build Setup
 

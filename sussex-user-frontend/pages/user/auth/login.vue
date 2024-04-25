@@ -3,14 +3,12 @@
     <div class="container-tight py-4">
       <div class="text-center mb-4">
         <a href="." class="navbar-brand navbar-brand-autodark">
-<!--          <img src='~/assets/Logo_primary.png' height="36" alt="">-->
-          Moxy-logo
+          sussex-logo
         </a>
       </div>
       <form class="card card-md" autocomplete="off" @submit.p.prevent="login">
-<!--        <form class="card card-md" autocomplete="off" @submit.p.prevent="login">-->
         <div class="card-body">
-          <h2 class="card-title text-center mb-4">Login to Your Account</h2>
+          <h2 class="card-title text-center mb-4">Login to sussex account</h2>
           <div class="alert alert-danger" role="alert" v-if="login_form.message === 'These credentials do not match our records.' && login_form.message !== 'The email field is required.' && login_form.message !== 'The password field is required.'"
                style="background-color: #d63939;color: white">
             <svg xmlns="http://www.w3.org/2000/svg"
@@ -58,12 +56,6 @@
                   <NuxtLink to="forgot-password" class="link-color">I forgot password</NuxtLink>
             </span>
           </div>
-<!--          <div class="mb-2">-->
-<!--            <label class="form-check">-->
-<!--              <input type="checkbox" class="form-check-input"/>-->
-<!--              <span class="form-check-label">Remember me on this device</span>-->
-<!--            </label>-->
-<!--          </div>-->
           <div class="form-footer">
             <button type="submit" class="btn btn-primary w-100" v-if="!login_form.loading">Sign in</button>
             <button class="btn btn-primary w-100" disabled v-else>

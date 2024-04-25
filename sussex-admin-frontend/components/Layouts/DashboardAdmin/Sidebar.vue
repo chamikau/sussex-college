@@ -268,74 +268,30 @@
               </span>
             </NuxtLink>
           </li>
-          <li class="nav-item">
-            <NuxtLink class="nav-link" to="/admin/courses">
-              <span class="nav-link-icon d-md-none d-lg-inline-block"><!-- Download SVG icon from http://tabler-icons.io/i/home -->
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mortarboard" viewBox="0 0 16 16">
-                  <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5ZM8 8.46 1.758 5.965 8 3.052l6.242 2.913L8 8.46Z"/>
-                  <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"/>
-                </svg>
-              </span>
-              <span class="nav-link-title">
-                Courses
-              </span>
-            </NuxtLink>
-          </li>
-<!--          <li class="nav-item dropdown">-->
-<!--            <a class="nav-link dropdown-toggle" href="#navbar-base" data-bs-toggle="dropdown" data-bs-auto-close="false" role="button" aria-expanded="false">-->
-<!--              <span class="nav-link-icon d-md-none d-lg-inline-block">&lt;!&ndash; Download SVG icon from http://tabler-icons.io/i/home &ndash;&gt;-->
-<!--                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mortarboard" viewBox="0 0 16 16">-->
-<!--                  <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5ZM8 8.46 1.758 5.965 8 3.052l6.242 2.913L8 8.46Z"/>-->
-<!--                  <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"/>-->
-<!--                </svg>-->
-<!--              </span>-->
-<!--              <span class="nav-link-title">-->
-<!--                Courses-->
-<!--              </span>-->
-<!--            </a>-->
-<!--            <div class="dropdown-menu">-->
-<!--              <div class="dropdown-menu-columns">-->
-<!--                <div class="dropdown-menu-column">-->
-<!--                  <NuxtLink class="dropdown-item" to="/admin/courses">-->
-<!--                    <span class="nav-link-title">-->
-<!--                      Courses List-->
-<!--                    </span>-->
-<!--                  </NuxtLink>-->
-<!--                  <NuxtLink class="dropdown-item" to="/admin/course-applicant-lists">-->
-<!--                    <span class="nav-link-title">-->
-<!--                      Course Applicants-->
-<!--                    </span>-->
-<!--                  </NuxtLink>-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </li>-->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#navbar-base" data-bs-toggle="dropdown" data-bs-auto-close="false" role="button" aria-expanded="false">
               <span class="nav-link-icon d-md-none d-lg-inline-block"><!-- Download SVG icon from http://tabler-icons.io/i/home -->
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-briefcase" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                       <path d="M3 7m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z"></path>
-                       <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2"></path>
-                       <path d="M12 12l0 .01"></path>
-                       <path d="M3 13a20 20 0 0 0 18 0"></path>
-                    </svg>
+                  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                     <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
+                     <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
+                  </svg>
                   </span>
               <span class="nav-link-title">
-                Jobs
+                Students
               </span>
             </a>
             <div class="dropdown-menu">
               <div class="dropdown-menu-columns">
                 <div class="dropdown-menu-column">
-                  <NuxtLink class="dropdown-item" to="/admin/jobs">
+                  <NuxtLink class="dropdown-item" to="/admin/students">
                     <span class="nav-link-title">
-                      Jobs List
+                      Student Details
                     </span>
                   </NuxtLink>
-                  <NuxtLink class="dropdown-item" to="/admin/job-applicant-lists">
+                  <NuxtLink class="dropdown-item" to="/admin/student-attendance-lists">
                     <span class="nav-link-title">
-                       Job Applicants
+                       Attendance
                     </span>
                   </NuxtLink>
                 </div>
@@ -366,18 +322,6 @@
                   </span>
               <span class="nav-link-title">
                 News
-              </span>
-            </NuxtLink>
-            <NuxtLink class="nav-link" to="/admin/students">
-              <span class="nav-link-icon d-md-none d-lg-inline-block"><!-- Download SVG icon from http://tabler-icons.io/i/home -->
-                  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                     <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
-                     <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
-                  </svg>
-                  </span>
-              <span class="nav-link-title">
-                Students
               </span>
             </NuxtLink>
           <NuxtLink class="nav-link" to="/admin/companies">

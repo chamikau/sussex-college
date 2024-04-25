@@ -1,4 +1,4 @@
-# moxybase-admin
+# sussex-admin
 
 ## Build Setup
 

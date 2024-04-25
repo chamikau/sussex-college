@@ -2,9 +2,8 @@
   <div class="page page-center">
     <div class="container-tight py-4">
       <div class="text-center mb-4">
-        <a href="." class="navbar-brand navbar-brand-autodark">
-<!--          <img src='~/assets/Logo_primary.png' height="36" alt="">-->
-          Moxy-logo
+        <a href="#" class="navbar-brand navbar-brand-autodark">
+          <img alt="" height="36" src='~/assets/logonew.png'>
         </a>
       </div>
       <form class="card card-md" autocomplete="off" @submit.prevent="login">
@@ -22,10 +21,6 @@
               </svg>
               {{ login_form.message }}
           </div>
-<!--          <div class="" role="alert" v-if="credentials === true">-->
-<!--            <i class="material-icons">error</i> &lt;!&ndash; Material Icons icon &ndash;&gt;-->
-<!--            {{ login_form.message }}-->
-<!--          </div>-->
 
           <div class="mb-3">
             <label class="form-label">Email Address</label>
@@ -37,9 +32,6 @@
           <div class="mb-2">
             <label class="form-label">
               Password
-<!--              <span class="form-label-description">-->
-<!--                  <NuxtLink to="forgot-password">I forgot password</NuxtLink>-->
-<!--                </span>-->
             </label>
             <div class="input-group input-group-flat">
               <input v-model="login_form.fields.password"
@@ -60,22 +52,11 @@
               <div class="invalid-feedback" v-if="login_form.errors.password && credentials === false">{{ login_form.errors.password[0] }}</div>
             </div>
           </div>
-<!--          <div class="mb-2">-->
-<!--            <label class="form-check">-->
-<!--              <input type="checkbox" class="form-check-input"/>-->
-<!--              <span class="form-check-label">Remember me on this device</span>-->
-<!--            </label>-->
-<!--          </div>-->
           <span class="form-label-description mt-2 mb-3">
                   <NuxtLink to="forgot-password">I forgot password</NuxtLink>
             </span>
           <div class="form-footer">
             <button type="submit" class="btn btn-primary w-100" v-if="!login_form.loading">Sign in</button>
-            <button class="btn btn-primary w-100" disabled v-else>
-              <div class="spinner-border" role="status">
-                <span class="visually-hidden">Loading...</span>
-              </div>
-            </button>
           </div>
         </div>
       </form>

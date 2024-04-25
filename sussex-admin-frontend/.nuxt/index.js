@@ -13,8 +13,8 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_0c3b2087 from 'nuxt_plugin_plugin_0c3b2087' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_axios_7df1e72a from 'nuxt_plugin_axios_7df1e72a' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_plugin_290ea2c9 from 'nuxt_plugin_plugin_290ea2c9' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_axios_18553c6c from 'nuxt_plugin_axios_18553c6c' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_vcalendar_5419a6aa from 'nuxt_plugin_vcalendar_5419a6aa' // Source: ..\\plugins\\v-calendar.js (mode: 'client')
 import nuxt_plugin_mixinCommonMethods_b0161b88 from 'nuxt_plugin_mixinCommonMethods_b0161b88' // Source: ..\\plugins\\mixinCommonMethods (mode: 'client')
 import nuxt_plugin_axios_3566aa80 from 'nuxt_plugin_axios_3566aa80' // Source: ..\\plugins\\axios (mode: 'client')
@@ -26,7 +26,7 @@ import nuxt_plugin_vuedraggable_11e72f9a from 'nuxt_plugin_vuedraggable_11e72f9a
 import nuxt_plugin_vaporfileupload_3df0d660 from 'nuxt_plugin_vaporfileupload_3df0d660' // Source: ..\\plugins\\vapor-file-upload.js (mode: 'client')
 import nuxt_plugin_ckeditor_01e62ccc from 'nuxt_plugin_ckeditor_01e62ccc' // Source: ..\\plugins\\ckeditor.js (mode: 'client')
 import nuxt_plugin_toast_bdf93834 from 'nuxt_plugin_toast_bdf93834' // Source: ..\\plugins\\toast.js (mode: 'client')
-import nuxt_plugin_auth_6ae334c6 from 'nuxt_plugin_auth_6ae334c6' // Source: .\\auth.js (mode: 'all')
+import nuxt_plugin_auth_1801a178 from 'nuxt_plugin_auth_1801a178' // Source: .\\auth.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -91,7 +91,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"moxybase-admin","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"script":[{"src":"https:\u002F\u002Funpkg.com\u002F@tabler\u002Fcore@latest\u002Fdist\u002Fjs\u002Ftabler.min.js"},{"src":"..\u002Fnode_modules\u002F@ckeditor\u002Fckeditor5-build-classic\u002Fbuild\u002Fckeditor.js"},{"src":"..\u002Fnode_modules\u002F@ckeditor\u002Fckeditor5-vue\u002Fdist\u002Fckeditor.js"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[]},
+    head: {"title":"sussex-admin","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"script":[{"src":"https:\u002F\u002Funpkg.com\u002F@tabler\u002Fcore@latest\u002Fdist\u002Fjs\u002Ftabler.min.js"},{"src":"..\u002Fnode_modules\u002F@ckeditor\u002Fckeditor5-build-classic\u002Fbuild\u002Fckeditor.js"},{"src":"..\u002Fnode_modules\u002F@ckeditor\u002Fckeditor5-vue\u002Fdist\u002Fckeditor.js"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[]},
 
     store,
     router,
@@ -221,12 +221,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_0c3b2087 === 'function') {
-    await nuxt_plugin_plugin_0c3b2087(app.context, inject)
+  if (typeof nuxt_plugin_plugin_290ea2c9 === 'function') {
+    await nuxt_plugin_plugin_290ea2c9(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_7df1e72a === 'function') {
-    await nuxt_plugin_axios_7df1e72a(app.context, inject)
+  if (typeof nuxt_plugin_axios_18553c6c === 'function') {
+    await nuxt_plugin_axios_18553c6c(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_vcalendar_5419a6aa === 'function') {
@@ -273,8 +273,8 @@ async function createApp(ssrContext, config = {}) {
     await nuxt_plugin_toast_bdf93834(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_auth_6ae334c6 === 'function') {
-    await nuxt_plugin_auth_6ae334c6(app.context, inject)
+  if (typeof nuxt_plugin_auth_1801a178 === 'function') {
+    await nuxt_plugin_auth_1801a178(app.context, inject)
   }
 
   // Lock enablePreview in context
