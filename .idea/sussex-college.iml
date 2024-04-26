@@ -2,7 +2,6 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/sussex-backend/app" isTestSource="false" packagePrefix="App\" />
       <sourceFolder url="file://$MODULE_DIR$/sussex-backend/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
       <sourceFolder url="file://$MODULE_DIR$/sussex-backend/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
@@ -11,7 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/sussex-backend/src/Domain" isTestSource="false" packagePrefix="Domain\" />
       <sourceFolder url="file://$MODULE_DIR$/sussex-backend/src/Student" isTestSource="false" packagePrefix="Student\" />
       <sourceFolder url="file://$MODULE_DIR$/sussex-backend/tests" isTestSource="true" packagePrefix="Tests\" />
-      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sussex-backend/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sussex-backend/tests/Unit" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/sussex-backend/vendor/spatie/flare-client-php" />
       <excludeFolder url="file://$MODULE_DIR$/sussex-backend/vendor/spatie/laravel-model-states" />
       <excludeFolder url="file://$MODULE_DIR$/sussex-backend/vendor/spatie/laravel-query-builder" />
