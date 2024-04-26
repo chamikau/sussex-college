@@ -4,157 +4,157 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _71e2163c = () => interopDefault(import('..\\pages\\admin\\approval.vue' /* webpackChunkName: "pages/admin/approval" */))
-const _dc53197e = () => interopDefault(import('..\\pages\\admin\\approval\\blocked-list.vue' /* webpackChunkName: "pages/admin/approval/blocked-list" */))
-const _ee0d8814 = () => interopDefault(import('..\\pages\\admin\\approval\\pending-list.vue' /* webpackChunkName: "pages/admin/approval/pending-list" */))
-const _56bb6e91 = () => interopDefault(import('..\\pages\\admin\\approval\\verified-list.vue' /* webpackChunkName: "pages/admin/approval/verified-list" */))
-const _50bd8694 = () => interopDefault(import('..\\pages\\admin\\companies\\index.vue' /* webpackChunkName: "pages/admin/companies/index" */))
-const _5631c7b2 = () => interopDefault(import('..\\pages\\admin\\confirm-password.vue' /* webpackChunkName: "pages/admin/confirm-password" */))
-const _4547852a = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/index" */))
-const _7a471479 = () => interopDefault(import('..\\pages\\admin\\courses\\index.vue' /* webpackChunkName: "pages/admin/courses/index" */))
-const _55332e85 = () => interopDefault(import('..\\pages\\admin\\dashboard.vue' /* webpackChunkName: "pages/admin/dashboard" */))
-const _4a4a4b81 = () => interopDefault(import('..\\pages\\admin\\document-list.vue' /* webpackChunkName: "pages/admin/document-list" */))
-const _1126d87d = () => interopDefault(import('..\\pages\\admin\\document-list\\achievements\\index.vue' /* webpackChunkName: "pages/admin/document-list/achievements/index" */))
-const _2b582536 = () => interopDefault(import('..\\pages\\admin\\document-list\\educations\\index.vue' /* webpackChunkName: "pages/admin/document-list/educations/index" */))
-const _55f6193e = () => interopDefault(import('..\\pages\\admin\\document-list\\personal\\index.vue' /* webpackChunkName: "pages/admin/document-list/personal/index" */))
-const _ba6b8e32 = () => interopDefault(import('..\\pages\\admin\\document-list\\projects\\index.vue' /* webpackChunkName: "pages/admin/document-list/projects/index" */))
-const _1eeaa059 = () => interopDefault(import('..\\pages\\admin\\document-list\\references\\index.vue' /* webpackChunkName: "pages/admin/document-list/references/index" */))
-const _38d062ed = () => interopDefault(import('..\\pages\\admin\\document-list\\work-experience\\index.vue' /* webpackChunkName: "pages/admin/document-list/work-experience/index" */))
-const _298feaba = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/index" */))
-const _4e8e530a = () => interopDefault(import('..\\pages\\admin\\events\\index.vue' /* webpackChunkName: "pages/admin/events/index" */))
-const _36a65b23 = () => interopDefault(import('..\\pages\\admin\\feedbacks\\index.vue' /* webpackChunkName: "pages/admin/feedbacks/index" */))
-const _8f9f0d12 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/index" */))
-const _ec087c26 = () => interopDefault(import('..\\pages\\admin\\jobs\\index.vue' /* webpackChunkName: "pages/admin/jobs/index" */))
-const _1f412f1f = () => interopDefault(import('..\\pages\\admin\\mentors\\index.vue' /* webpackChunkName: "pages/admin/mentors/index" */))
-const _a101d960 = () => interopDefault(import('..\\pages\\admin\\news\\index.vue' /* webpackChunkName: "pages/admin/news/index" */))
-const _1496006b = () => interopDefault(import('..\\pages\\admin\\old-organizations.vue' /* webpackChunkName: "pages/admin/old-organizations" */))
-const _0789ac51 = () => interopDefault(import('..\\pages\\admin\\organizations\\index.vue' /* webpackChunkName: "pages/admin/organizations/index" */))
-const _00003d5a = () => interopDefault(import('..\\pages\\admin\\profile.vue' /* webpackChunkName: "pages/admin/profile" */))
-const _52b30b9f = () => interopDefault(import('..\\pages\\admin\\profile\\2fa\\index.vue' /* webpackChunkName: "pages/admin/profile/2fa/index" */))
-const _3c183b7e = () => interopDefault(import('..\\pages\\admin\\profile\\general.vue' /* webpackChunkName: "pages/admin/profile/general" */))
-const _db5fa81c = () => interopDefault(import('..\\pages\\admin\\profile\\invitations\\index.vue' /* webpackChunkName: "pages/admin/profile/invitations/index" */))
-const _12daf375 = () => interopDefault(import('..\\pages\\admin\\profile\\password.vue' /* webpackChunkName: "pages/admin/profile/password" */))
-const _4ce34a7c = () => interopDefault(import('..\\pages\\admin\\settings.vue' /* webpackChunkName: "pages/admin/settings" */))
-const _2c874642 = () => interopDefault(import('..\\pages\\admin\\settings\\collections\\index.vue' /* webpackChunkName: "pages/admin/settings/collections/index" */))
-const _bc90146c = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\index.vue' /* webpackChunkName: "pages/admin/settings/consultations/index" */))
-const _64c836c8 = () => interopDefault(import('..\\pages\\admin\\settings\\products\\index.vue' /* webpackChunkName: "pages/admin/settings/products/index" */))
-const _37f3f237 = () => interopDefault(import('..\\pages\\admin\\settings\\roles\\index.vue' /* webpackChunkName: "pages/admin/settings/roles/index" */))
-const _071f2c72 = () => interopDefault(import('..\\pages\\admin\\settings\\tags\\index.vue' /* webpackChunkName: "pages/admin/settings/tags/index" */))
-const _33ae060c = () => interopDefault(import('..\\pages\\admin\\settings\\users\\index.vue' /* webpackChunkName: "pages/admin/settings/users/index" */))
-const _758389bf = () => interopDefault(import('..\\pages\\admin\\settings\\collections\\create.vue' /* webpackChunkName: "pages/admin/settings/collections/create" */))
-const _8609e398 = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\create.vue' /* webpackChunkName: "pages/admin/settings/consultations/create" */))
-const _0d94f9a2 = () => interopDefault(import('..\\pages\\admin\\settings\\products\\create.vue' /* webpackChunkName: "pages/admin/settings/products/create" */))
-const _2382c132 = () => interopDefault(import('..\\pages\\admin\\settings\\roles\\create.vue' /* webpackChunkName: "pages/admin/settings/roles/create" */))
-const _8d5dcc52 = () => interopDefault(import('..\\pages\\admin\\settings\\tags\\create.vue' /* webpackChunkName: "pages/admin/settings/tags/create" */))
-const _c4567162 = () => interopDefault(import('..\\pages\\admin\\settings\\users\\invitation.vue' /* webpackChunkName: "pages/admin/settings/users/invitation" */))
-const _1c2a0b07 = () => interopDefault(import('..\\pages\\admin\\settings\\collections\\_id.vue' /* webpackChunkName: "pages/admin/settings/collections/_id" */))
-const _45846590 = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\_id\\index.vue' /* webpackChunkName: "pages/admin/settings/consultations/_id/index" */))
-const _ee5b43f8 = () => interopDefault(import('..\\pages\\admin\\settings\\products\\_id.vue' /* webpackChunkName: "pages/admin/settings/products/_id" */))
-const _ed11d342 = () => interopDefault(import('..\\pages\\admin\\settings\\roles\\_id.vue' /* webpackChunkName: "pages/admin/settings/roles/_id" */))
-const _4ecc31ef = () => interopDefault(import('..\\pages\\admin\\settings\\tags\\_id.vue' /* webpackChunkName: "pages/admin/settings/tags/_id" */))
-const _42de1b74 = () => interopDefault(import('..\\pages\\admin\\settings\\users\\_id.vue' /* webpackChunkName: "pages/admin/settings/users/_id" */))
-const _728b7d76 = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\_id\\form.vue' /* webpackChunkName: "pages/admin/settings/consultations/_id/form" */))
-const _40c0a6eb = () => interopDefault(import('..\\pages\\admin\\students\\index.vue' /* webpackChunkName: "pages/admin/students/index" */))
-const _7eaf17ce = () => interopDefault(import('..\\pages\\admin\\auth\\forgot-password.vue' /* webpackChunkName: "pages/admin/auth/forgot-password" */))
-const _3298871c = () => interopDefault(import('..\\pages\\admin\\auth\\login.vue' /* webpackChunkName: "pages/admin/auth/login" */))
-const _60a160c0 = () => interopDefault(import('..\\pages\\admin\\auth\\reset-password.vue' /* webpackChunkName: "pages/admin/auth/reset-password" */))
-const _3c1dbedf = () => interopDefault(import('..\\pages\\admin\\auth\\signup.vue' /* webpackChunkName: "pages/admin/auth/signup" */))
-const _a7e22166 = () => interopDefault(import('..\\pages\\admin\\auth\\two-factor-challenge.vue' /* webpackChunkName: "pages/admin/auth/two-factor-challenge" */))
-const _c45c7976 = () => interopDefault(import('..\\pages\\admin\\auth\\two-factor-challenge-recovery.vue' /* webpackChunkName: "pages/admin/auth/two-factor-challenge-recovery" */))
-const _1f523dcd = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view" */))
-const _2faad20c = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/certifications/index" */))
-const _0933057a = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/educations/index" */))
-const _3493ce7b = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/general" */))
-const _1f08c8e4 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/hobbies-and-list" */))
-const _3fa85a2b = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/projects/index" */))
-const _bca162b8 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/certifications/_id/general" */))
-const _044df914 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/educations/_id/general" */))
-const _3f2d35a5 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/projects/_id/general" */))
-const _0cb915b3 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course.vue' /* webpackChunkName: "pages/admin/courses/create-course" */))
-const _394a9176 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\general.vue' /* webpackChunkName: "pages/admin/courses/create-course/general" */))
-const _41077af1 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\contents\\index.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/contents/index" */))
-const _85f4d716 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\description.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/description" */))
-const _079c2ded = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\contents\\create.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/contents/create" */))
-const _42b2ca1f = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\contents\\_id\\general.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/contents/_id/general" */))
-const _af78a8b6 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course.vue' /* webpackChunkName: "pages/admin/courses/edit-course" */))
-const _5c939f5a = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\edit-contents\\index.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/edit-contents/index" */))
-const _01242253 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\general.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/general" */))
-const _f32853be = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\student-applied-courses\\index.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/student-applied-courses/index" */))
-const _5d9496a4 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\edit-contents\\create.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/edit-contents/create" */))
-const _d15ce4d4 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\edit-contents\\_id\\general.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/edit-contents/_id/general" */))
-const _6469a59d = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view" */))
-const _321b61dc = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/certifications/index" */))
-const _0f83fd4a = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/educations/index" */))
-const _e11d6b6a = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/general" */))
-const _434469be = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/hobbies-and-list" */))
-const _7315f40a = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/projects/index" */))
-const _304454d4 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/certifications/_id/general" */))
-const _326ebcb4 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/educations/_id/general" */))
-const _ea62c056 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/projects/_id/general" */))
-const _aa1f4e18 = () => interopDefault(import('..\\pages\\admin\\events\\create.vue' /* webpackChunkName: "pages/admin/events/create" */))
-const _b80cc7fe = () => interopDefault(import('..\\pages\\admin\\events\\create-event.vue' /* webpackChunkName: "pages/admin/events/create-event" */))
-const _53b168b7 = () => interopDefault(import('..\\pages\\admin\\events\\create-event\\general.vue' /* webpackChunkName: "pages/admin/events/create-event/general" */))
-const _454b397a = () => interopDefault(import('..\\pages\\admin\\events\\create-event\\_id\\description.vue' /* webpackChunkName: "pages/admin/events/create-event/_id/description" */))
-const _40ec6806 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view" */))
-const _171c383c = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/certifications/index" */))
-const _2fa1f8ac = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/educations/index" */))
-const _569ec8ab = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/general" */))
-const _0021d144 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/hobbies-and-list" */))
-const _58ee245b = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/projects/index" */))
-const _4990db18 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/certifications/_id/general" */))
-const _433baf46 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/educations/_id/general" */))
-const _45e89575 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/projects/_id/general" */))
-const _91fe8220 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor" */))
-const _1d915528 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/create" */))
-const _60490d9d = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/educations/index" */))
-const _2e1019ea = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\sessions\\index.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/sessions/index" */))
-const _9c5d97ca = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\work-experiences\\index.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/work-experiences/index" */))
-const _5ee61e7e = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\educations\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/educations/create" */))
-const _5dbab913 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\sessions\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/sessions/create" */))
-const _9feccbfa = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\work-experiences\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/work-experiences/create" */))
-const _4199c41a = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/educations/_id/general" */))
-const _32ac3e76 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\sessions\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/sessions/_id/general" */))
-const _5baf6496 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\work-experiences\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/work-experiences/_id/general" */))
-const _25c6d271 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor" */))
-const _e1c623c4 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/educations/index" */))
-const _4a05741f = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/general" */))
-const _709bffcc = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\sessions\\index.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/sessions/index" */))
-const _5240efdc = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\work-experiences\\index.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/work-experiences/index" */))
-const _7c352060 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\educations\\create.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/educations/create" */))
-const _6acf771c = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\sessions\\create.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/sessions/create" */))
-const _1d915662 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\work-experiences\\create.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/work-experiences/create" */))
-const _4cbada52 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/educations/_id/general" */))
-const _1d6328e4 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\sessions\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/sessions/_id/general" */))
-const _736306d4 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\work-experiences\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/work-experiences/_id/general" */))
-const _75a5202d = () => interopDefault(import('..\\pages\\admin\\news\\create-news-test.vue' /* webpackChunkName: "pages/admin/news/create-news-test" */))
-const _200e3029 = () => interopDefault(import('..\\pages\\admin\\organizations\\invitations\\index.vue' /* webpackChunkName: "pages/admin/organizations/invitations/index" */))
-const _1d42ee9c = () => interopDefault(import('..\\pages\\admin\\students\\skills-and-hobbies\\index.vue' /* webpackChunkName: "pages/admin/students/skills-and-hobbies/index" */))
-const _18a5fe6e = () => interopDefault(import('..\\pages\\admin\\students\\student-view.vue' /* webpackChunkName: "pages/admin/students/student-view" */))
-const _b5c571a6 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/certifications/index" */))
-const _55a7331b = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/educations/index" */))
-const _19553d48 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/general" */))
-const _5c2a9466 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/hobbies-and-list" */))
-const _04dd7c0c = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/projects/index" */))
-const _54f3fb3a = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/certifications/_id/general" */))
-const _70656eb5 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/educations/_id/general" */))
-const _780964a4 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/projects/_id/general" */))
-const _bb7ea054 = () => interopDefault(import('..\\pages\\admin\\news\\create-news\\general.vue' /* webpackChunkName: "pages/admin/news/create-news/general" */))
-const _9805c190 = () => interopDefault(import('..\\pages\\admin\\organizations\\company\\create.vue' /* webpackChunkName: "pages/admin/organizations/company/create" */))
-const _3792553c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
-const _6fc0a93b = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id" */))
-const _43168751 = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id\\description.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id/description" */))
-const _29a6c686 = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id\\general.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id/general" */))
-const _21dda968 = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id\\student-applied-events\\index.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id/student-applied-events/index" */))
-const _2765f0f9 = () => interopDefault(import('..\\pages\\admin\\news\\edit-news\\_id-test.vue' /* webpackChunkName: "pages/admin/news/edit-news/_id-test" */))
-const _2348102e = () => interopDefault(import('..\\pages\\admin\\organizations\\company\\_id.vue' /* webpackChunkName: "pages/admin/organizations/company/_id" */))
-const _72efaf04 = () => interopDefault(import('..\\pages\\admin\\news\\create-news\\_id\\description.vue' /* webpackChunkName: "pages/admin/news/create-news/_id/description" */))
-const _0fc2aab6 = () => interopDefault(import('..\\pages\\admin\\news\\edit-news\\_id\\description.vue' /* webpackChunkName: "pages/admin/news/edit-news/_id/description" */))
-const _1b578abc = () => interopDefault(import('..\\pages\\admin\\news\\edit-news\\_id\\general.vue' /* webpackChunkName: "pages/admin/news/edit-news/_id/general" */))
-const _899e67bc = () => interopDefault(import('..\\pages\\admin\\companies\\_id\\application.vue' /* webpackChunkName: "pages/admin/companies/_id/application" */))
-const _354653e6 = () => interopDefault(import('..\\pages\\admin\\events\\_id\\general.vue' /* webpackChunkName: "pages/admin/events/_id/general" */))
-const _4f105795 = () => interopDefault(import('..\\pages\\admin\\feedbacks\\_id\\application.vue' /* webpackChunkName: "pages/admin/feedbacks/_id/application" */))
-const _42a8a2ea = () => interopDefault(import('..\\pages\\admin\\jobs\\_id\\application.vue' /* webpackChunkName: "pages/admin/jobs/_id/application" */))
-const _2f8fd8e0 = () => interopDefault(import('..\\pages\\admin\\news\\_id\\general.vue' /* webpackChunkName: "pages/admin/news/_id/general" */))
+const _78fe0bf4 = () => interopDefault(import('..\\pages\\admin\\approval.vue' /* webpackChunkName: "pages/admin/approval" */))
+const _6a92ad36 = () => interopDefault(import('..\\pages\\admin\\approval\\blocked-list.vue' /* webpackChunkName: "pages/admin/approval/blocked-list" */))
+const _7c4d1bcc = () => interopDefault(import('..\\pages\\admin\\approval\\pending-list.vue' /* webpackChunkName: "pages/admin/approval/pending-list" */))
+const _39e1fced = () => interopDefault(import('..\\pages\\admin\\approval\\verified-list.vue' /* webpackChunkName: "pages/admin/approval/verified-list" */))
+const _71ddddda = () => interopDefault(import('..\\pages\\admin\\companies\\index.vue' /* webpackChunkName: "pages/admin/companies/index" */))
+const _6f23bd4b = () => interopDefault(import('..\\pages\\admin\\confirm-password.vue' /* webpackChunkName: "pages/admin/confirm-password" */))
+const _039d96c7 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/index" */))
+const _6e7ca2c6 = () => interopDefault(import('..\\pages\\admin\\courses\\index.vue' /* webpackChunkName: "pages/admin/courses/index" */))
+const _31fc643e = () => interopDefault(import('..\\pages\\admin\\dashboard.vue' /* webpackChunkName: "pages/admin/dashboard" */))
+const _0ac1dcdd = () => interopDefault(import('..\\pages\\admin\\document-list.vue' /* webpackChunkName: "pages/admin/document-list" */))
+const _27d2f8a1 = () => interopDefault(import('..\\pages\\admin\\document-list\\achievements\\index.vue' /* webpackChunkName: "pages/admin/document-list/achievements/index" */))
+const _0bd4034c = () => interopDefault(import('..\\pages\\admin\\document-list\\educations\\index.vue' /* webpackChunkName: "pages/admin/document-list/educations/index" */))
+const _76eec585 = () => interopDefault(import('..\\pages\\admin\\document-list\\personal\\index.vue' /* webpackChunkName: "pages/admin/document-list/personal/index" */))
+const _44b40b0b = () => interopDefault(import('..\\pages\\admin\\document-list\\projects\\index.vue' /* webpackChunkName: "pages/admin/document-list/projects/index" */))
+const _24af0d06 = () => interopDefault(import('..\\pages\\admin\\document-list\\references\\index.vue' /* webpackChunkName: "pages/admin/document-list/references/index" */))
+const _bd7ebf6e = () => interopDefault(import('..\\pages\\admin\\document-list\\work-experience\\index.vue' /* webpackChunkName: "pages/admin/document-list/work-experience/index" */))
+const _3b4ff5de = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/index" */))
+const _0f05e466 = () => interopDefault(import('..\\pages\\admin\\events\\index.vue' /* webpackChunkName: "pages/admin/events/index" */))
+const _5e3a0772 = () => interopDefault(import('..\\pages\\admin\\feedbacks\\index.vue' /* webpackChunkName: "pages/admin/feedbacks/index" */))
+const _7c00fd9b = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/index" */))
+const _3ac00b6e = () => interopDefault(import('..\\pages\\admin\\jobs\\index.vue' /* webpackChunkName: "pages/admin/jobs/index" */))
+const _6dbbc943 = () => interopDefault(import('..\\pages\\admin\\mentors\\index.vue' /* webpackChunkName: "pages/admin/mentors/index" */))
+const _08234bac = () => interopDefault(import('..\\pages\\admin\\news\\index.vue' /* webpackChunkName: "pages/admin/news/index" */))
+const _7c24f872 = () => interopDefault(import('..\\pages\\admin\\old-organizations.vue' /* webpackChunkName: "pages/admin/old-organizations" */))
+const _02891b75 = () => interopDefault(import('..\\pages\\admin\\organizations\\index.vue' /* webpackChunkName: "pages/admin/organizations/index" */))
+const _106703b6 = () => interopDefault(import('..\\pages\\admin\\profile.vue' /* webpackChunkName: "pages/admin/profile" */))
+const _083727fb = () => interopDefault(import('..\\pages\\admin\\profile\\2fa\\index.vue' /* webpackChunkName: "pages/admin/profile/2fa/index" */))
+const _535646bc = () => interopDefault(import('..\\pages\\admin\\profile\\general.vue' /* webpackChunkName: "pages/admin/profile/general" */))
+const _48902c4e = () => interopDefault(import('..\\pages\\admin\\profile\\invitations\\index.vue' /* webpackChunkName: "pages/admin/profile/invitations/index" */))
+const _7f9b125e = () => interopDefault(import('..\\pages\\admin\\profile\\password.vue' /* webpackChunkName: "pages/admin/profile/password" */))
+const _53ff4034 = () => interopDefault(import('..\\pages\\admin\\settings.vue' /* webpackChunkName: "pages/admin/settings" */))
+const _09072ffa = () => interopDefault(import('..\\pages\\admin\\settings\\collections\\index.vue' /* webpackChunkName: "pages/admin/settings/collections/index" */))
+const _43a1c7ee = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\index.vue' /* webpackChunkName: "pages/admin/settings/consultations/index" */))
+const _fd4f6810 = () => interopDefault(import('..\\pages\\admin\\settings\\products\\index.vue' /* webpackChunkName: "pages/admin/settings/products/index" */))
+const _70d4285b = () => interopDefault(import('..\\pages\\admin\\settings\\roles\\index.vue' /* webpackChunkName: "pages/admin/settings/roles/index" */))
+const _615edf23 = () => interopDefault(import('..\\pages\\admin\\settings\\tags\\index.vue' /* webpackChunkName: "pages/admin/settings/tags/index" */))
+const _6c8e3c30 = () => interopDefault(import('..\\pages\\admin\\settings\\users\\index.vue' /* webpackChunkName: "pages/admin/settings/users/index" */))
+const _c87639ca = () => interopDefault(import('..\\pages\\admin\\settings\\collections\\create.vue' /* webpackChunkName: "pages/admin/settings/collections/create" */))
+const _584b8090 = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\create.vue' /* webpackChunkName: "pages/admin/settings/consultations/create" */))
+const _5d350474 = () => interopDefault(import('..\\pages\\admin\\settings\\products\\create.vue' /* webpackChunkName: "pages/admin/settings/products/create" */))
+const _5d35a47a = () => interopDefault(import('..\\pages\\admin\\settings\\roles\\create.vue' /* webpackChunkName: "pages/admin/settings/roles/create" */))
+const _1b9d600a = () => interopDefault(import('..\\pages\\admin\\settings\\tags\\create.vue' /* webpackChunkName: "pages/admin/settings/tags/create" */))
+const _5414c7ab = () => interopDefault(import('..\\pages\\admin\\settings\\users\\invitation.vue' /* webpackChunkName: "pages/admin/settings/users/invitation" */))
+const _400ae1aa = () => interopDefault(import('..\\pages\\admin\\settings\\collections\\_id.vue' /* webpackChunkName: "pages/admin/settings/collections/_id" */))
+const _045c49ec = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\_id\\index.vue' /* webpackChunkName: "pages/admin/settings/consultations/_id/index" */))
+const _6bf8ec60 = () => interopDefault(import('..\\pages\\admin\\settings\\products\\_id.vue' /* webpackChunkName: "pages/admin/settings/products/_id" */))
+const _f712f4fa = () => interopDefault(import('..\\pages\\admin\\settings\\roles\\_id.vue' /* webpackChunkName: "pages/admin/settings/roles/_id" */))
+const _04504e4b = () => interopDefault(import('..\\pages\\admin\\settings\\tags\\_id.vue' /* webpackChunkName: "pages/admin/settings/tags/_id" */))
+const _3ddd8a98 = () => interopDefault(import('..\\pages\\admin\\settings\\users\\_id.vue' /* webpackChunkName: "pages/admin/settings/users/_id" */))
+const _ed90c4cc = () => interopDefault(import('..\\pages\\admin\\settings\\consultations\\_id\\form.vue' /* webpackChunkName: "pages/admin/settings/consultations/_id/form" */))
+const _7ccd5d72 = () => interopDefault(import('..\\pages\\admin\\students\\index.vue' /* webpackChunkName: "pages/admin/students/index" */))
+const _38c4e5ac = () => interopDefault(import('..\\pages\\admin\\auth\\forgot-password.vue' /* webpackChunkName: "pages/admin/auth/forgot-password" */))
+const _3f57f4ce = () => interopDefault(import('..\\pages\\admin\\auth\\login.vue' /* webpackChunkName: "pages/admin/auth/login" */))
+const _6aa28278 = () => interopDefault(import('..\\pages\\admin\\auth\\reset-password.vue' /* webpackChunkName: "pages/admin/auth/reset-password" */))
+const _0ffedbfa = () => interopDefault(import('..\\pages\\admin\\auth\\signup.vue' /* webpackChunkName: "pages/admin/auth/signup" */))
+const _6fdf7371 = () => interopDefault(import('..\\pages\\admin\\auth\\two-factor-challenge.vue' /* webpackChunkName: "pages/admin/auth/two-factor-challenge" */))
+const _5ca9a7a1 = () => interopDefault(import('..\\pages\\admin\\auth\\two-factor-challenge-recovery.vue' /* webpackChunkName: "pages/admin/auth/two-factor-challenge-recovery" */))
+const _86eb0fae = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view" */))
+const _3b5e2a68 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/certifications/index" */))
+const _1d8e2854 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/educations/index" */))
+const _50b8b7d7 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/general" */))
+const _419d0c9c = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/hobbies-and-list" */))
+const _ed27b0f2 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/projects/index" */))
+const _52f516c8 = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/certifications/_id/general" */))
+const _cd1f04cc = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/educations/_id/general" */))
+const _ac362e6e = () => interopDefault(import('..\\pages\\admin\\course-applicant-lists\\course-application-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/course-applicant-lists/course-application-view/_id/projects/_id/general" */))
+const _45994bd7 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course.vue' /* webpackChunkName: "pages/admin/courses/create-course" */))
+const _7eab29a1 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\general.vue' /* webpackChunkName: "pages/admin/courses/create-course/general" */))
+const _7734be15 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\contents\\index.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/contents/index" */))
+const _5a7a0999 = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\description.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/description" */))
+const _d1d1616e = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\contents\\create.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/contents/create" */))
+const _8b63130a = () => interopDefault(import('..\\pages\\admin\\courses\\create-course\\_id\\contents\\_id\\general.vue' /* webpackChunkName: "pages/admin/courses/create-course/_id/contents/_id/general" */))
+const _b979ca6e = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course.vue' /* webpackChunkName: "pages/admin/courses/edit-course" */))
+const _0c684c94 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\edit-contents\\index.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/edit-contents/index" */))
+const _17d04277 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\general.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/general" */))
+const _5053cd7d = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\student-applied-courses\\index.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/student-applied-courses/index" */))
+const _6763a7c8 = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\edit-contents\\create.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/edit-contents/create" */))
+const _f79f988c = () => interopDefault(import('..\\pages\\admin\\courses\\edit-course\\_id\\edit-contents\\_id\\general.vue' /* webpackChunkName: "pages/admin/courses/edit-course/_id/edit-contents/_id/general" */))
+const _1836720e = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view" */))
+const _30412138 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/certifications/index" */))
+const _5947caa6 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/educations/index" */))
+const _7f38daa7 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/general" */))
+const _3d6380e2 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/hobbies-and-list" */))
+const _73770b52 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/projects/index" */))
+const _43e5d5f8 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/certifications/_id/general" */))
+const _518054ca = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/educations/_id/general" */))
+const _5160cbf9 = () => interopDefault(import('..\\pages\\admin\\event-applicant-lists\\event-application-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/event-applicant-lists/event-application-view/_id/projects/_id/general" */))
+const _0d2a19d0 = () => interopDefault(import('..\\pages\\admin\\events\\create.vue' /* webpackChunkName: "pages/admin/events/create" */))
+const _c20de9b6 = () => interopDefault(import('..\\pages\\admin\\events\\create-event.vue' /* webpackChunkName: "pages/admin/events/create-event" */))
+const _79f2c213 = () => interopDefault(import('..\\pages\\admin\\events\\create-event\\general.vue' /* webpackChunkName: "pages/admin/events/create-event/general" */))
+const _fa1c5d32 = () => interopDefault(import('..\\pages\\admin\\events\\create-event\\_id\\description.vue' /* webpackChunkName: "pages/admin/events/create-event/_id/description" */))
+const _1eb8094e = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view" */))
+const _60e00598 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/certifications/index" */))
+const _2ac7df06 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/educations/index" */))
+const _0594e707 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/general" */))
+const _2b5f6082 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/hobbies-and-list" */))
+const _0103b292 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/projects/index" */))
+const _45ef4598 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/certifications/_id/general" */))
+const _5bf2946a = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/educations/_id/general" */))
+const _349e7399 = () => interopDefault(import('..\\pages\\admin\\job-applicant-lists\\job-application-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/job-applicant-lists/job-application-view/_id/projects/_id/general" */))
+const _6c84db4c = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor" */))
+const _b1115470 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/create" */))
+const _d8d6540e = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/educations/index" */))
+const _0bdbbb32 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\sessions\\index.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/sessions/index" */))
+const _3c377112 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\work-experiences\\index.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/work-experiences/index" */))
+const _06ba33e5 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\educations\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/educations/create" */))
+const _6fe67537 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\sessions\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/sessions/create" */))
+const _fb4e1bb2 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\work-experiences\\create.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/work-experiences/create" */))
+const _9cfb13d2 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/educations/_id/general" */))
+const _1f0e1c2e = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\sessions\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/sessions/_id/general" */))
+const _01f5fad9 = () => interopDefault(import('..\\pages\\admin\\mentors\\add-mentor\\_id\\work-experiences\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/add-mentor/_id/work-experiences/_id/general" */))
+const _20c64195 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor" */))
+const _756b9d7c = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/educations/index" */))
+const _60b19443 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/general" */))
+const _fa708820 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\sessions\\index.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/sessions/index" */))
+const _24904800 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\work-experiences\\index.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/work-experiences/index" */))
+const _0bb041bc = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\educations\\create.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/educations/create" */))
+const _0437e664 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\sessions\\create.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/sessions/create" */))
+const _d5a5fa84 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\work-experiences\\create.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/work-experiences/create" */))
+const _7752f2a4 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/educations/_id/general" */))
+const _4d763c40 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\sessions\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/sessions/_id/general" */))
+const _3d4afe30 = () => interopDefault(import('..\\pages\\admin\\mentors\\edit-mentor\\_id\\work-experiences\\_id\\general.vue' /* webpackChunkName: "pages/admin/mentors/edit-mentor/_id/work-experiences/_id/general" */))
+const _a2f5535e = () => interopDefault(import('..\\pages\\admin\\news\\create-news-test.vue' /* webpackChunkName: "pages/admin/news/create-news-test" */))
+const _290b7b85 = () => interopDefault(import('..\\pages\\admin\\organizations\\invitations\\index.vue' /* webpackChunkName: "pages/admin/organizations/invitations/index" */))
+const _47ca5a10 = () => interopDefault(import('..\\pages\\admin\\students\\skills-and-hobbies\\index.vue' /* webpackChunkName: "pages/admin/students/skills-and-hobbies/index" */))
+const _51863492 = () => interopDefault(import('..\\pages\\admin\\students\\student-view.vue' /* webpackChunkName: "pages/admin/students/student-view" */))
+const _776c9f51 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\certifications\\index.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/certifications/index" */))
+const _94df8582 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\educations\\index.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/educations/index" */))
+const _0f7a0880 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/general" */))
+const _6165d729 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\hobbies-and-list.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/hobbies-and-list" */))
+const _3b0abf30 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\projects\\index.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/projects/index" */))
+const _c1240c82 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\certifications\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/certifications/_id/general" */))
+const _6fc77411 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\educations\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/educations/_id/general" */))
+const _20b5de00 = () => interopDefault(import('..\\pages\\admin\\students\\student-view\\_id\\projects\\_id\\general.vue' /* webpackChunkName: "pages/admin/students/student-view/_id/projects/_id/general" */))
+const _661133fa = () => interopDefault(import('..\\pages\\admin\\news\\create-news\\general.vue' /* webpackChunkName: "pages/admin/news/create-news/general" */))
+const _55e6f15c = () => interopDefault(import('..\\pages\\admin\\organizations\\company\\create.vue' /* webpackChunkName: "pages/admin/organizations/company/create" */))
+const _69d23786 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _52e73797 = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id" */))
+const _5f3b2e75 = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id\\description.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id/description" */))
+const _8c2b143e = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id\\general.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id/general" */))
+const _48205d20 = () => interopDefault(import('..\\pages\\admin\\events\\edit-event\\_id\\student-applied-events\\index.vue' /* webpackChunkName: "pages/admin/events/edit-event/_id/student-applied-events/index" */))
+const _49bb4f56 = () => interopDefault(import('..\\pages\\admin\\news\\edit-news\\_id-test.vue' /* webpackChunkName: "pages/admin/news/edit-news/_id-test" */))
+const _4cefdeec = () => interopDefault(import('..\\pages\\admin\\organizations\\company\\_id.vue' /* webpackChunkName: "pages/admin/organizations/company/_id" */))
+const _31c79360 = () => interopDefault(import('..\\pages\\admin\\news\\create-news\\_id\\description.vue' /* webpackChunkName: "pages/admin/news/create-news/_id/description" */))
+const _18bff612 = () => interopDefault(import('..\\pages\\admin\\news\\edit-news\\_id\\description.vue' /* webpackChunkName: "pages/admin/news/edit-news/_id/description" */))
+const _189593fe = () => interopDefault(import('..\\pages\\admin\\news\\edit-news\\_id\\general.vue' /* webpackChunkName: "pages/admin/news/edit-news/_id/general" */))
+const _7170cc7e = () => interopDefault(import('..\\pages\\admin\\companies\\_id\\application.vue' /* webpackChunkName: "pages/admin/companies/_id/application" */))
+const _3045c30a = () => interopDefault(import('..\\pages\\admin\\events\\_id\\general.vue' /* webpackChunkName: "pages/admin/events/_id/general" */))
+const _055057f1 = () => interopDefault(import('..\\pages\\admin\\feedbacks\\_id\\application.vue' /* webpackChunkName: "pages/admin/feedbacks/_id/application" */))
+const _178be4af = () => interopDefault(import('..\\pages\\admin\\jobs\\_id\\application.vue' /* webpackChunkName: "pages/admin/jobs/_id/application" */))
+const _2d28c104 = () => interopDefault(import('..\\pages\\admin\\news\\_id\\general.vue' /* webpackChunkName: "pages/admin/news/_id/general" */))
 
 const emptyFn = () => {}
 
@@ -169,621 +169,621 @@ export const routerOptions = {
 
   routes: [{
     path: "/admin/approval",
-    component: _71e2163c,
+    component: _78fe0bf4,
     name: "admin-approval",
     children: [{
       path: "blocked-list",
-      component: _dc53197e,
+      component: _6a92ad36,
       name: "admin-approval-blocked-list"
     }, {
       path: "pending-list",
-      component: _ee0d8814,
+      component: _7c4d1bcc,
       name: "admin-approval-pending-list"
     }, {
       path: "verified-list",
-      component: _56bb6e91,
+      component: _39e1fced,
       name: "admin-approval-verified-list"
     }]
   }, {
     path: "/admin/companies",
-    component: _50bd8694,
+    component: _71ddddda,
     name: "admin-companies"
   }, {
     path: "/admin/confirm-password",
-    component: _5631c7b2,
+    component: _6f23bd4b,
     name: "admin-confirm-password"
   }, {
     path: "/admin/course-applicant-lists",
-    component: _4547852a,
+    component: _039d96c7,
     name: "admin-course-applicant-lists"
   }, {
     path: "/admin/courses",
-    component: _7a471479,
+    component: _6e7ca2c6,
     name: "admin-courses"
   }, {
     path: "/admin/dashboard",
-    component: _55332e85,
+    component: _31fc643e,
     name: "admin-dashboard"
   }, {
     path: "/admin/document-list",
-    component: _4a4a4b81,
+    component: _0ac1dcdd,
     name: "admin-document-list",
     children: [{
       path: "achievements",
-      component: _1126d87d,
+      component: _27d2f8a1,
       name: "admin-document-list-achievements"
     }, {
       path: "educations",
-      component: _2b582536,
+      component: _0bd4034c,
       name: "admin-document-list-educations"
     }, {
       path: "personal",
-      component: _55f6193e,
+      component: _76eec585,
       name: "admin-document-list-personal"
     }, {
       path: "projects",
-      component: _ba6b8e32,
+      component: _44b40b0b,
       name: "admin-document-list-projects"
     }, {
       path: "references",
-      component: _1eeaa059,
+      component: _24af0d06,
       name: "admin-document-list-references"
     }, {
       path: "work-experience",
-      component: _38d062ed,
+      component: _bd7ebf6e,
       name: "admin-document-list-work-experience"
     }]
   }, {
     path: "/admin/event-applicant-lists",
-    component: _298feaba,
+    component: _3b4ff5de,
     name: "admin-event-applicant-lists"
   }, {
     path: "/admin/events",
-    component: _4e8e530a,
+    component: _0f05e466,
     name: "admin-events"
   }, {
     path: "/admin/feedbacks",
-    component: _36a65b23,
+    component: _5e3a0772,
     name: "admin-feedbacks"
   }, {
     path: "/admin/job-applicant-lists",
-    component: _8f9f0d12,
+    component: _7c00fd9b,
     name: "admin-job-applicant-lists"
   }, {
     path: "/admin/jobs",
-    component: _ec087c26,
+    component: _3ac00b6e,
     name: "admin-jobs"
   }, {
     path: "/admin/mentors",
-    component: _1f412f1f,
+    component: _6dbbc943,
     name: "admin-mentors"
   }, {
     path: "/admin/news",
-    component: _a101d960,
+    component: _08234bac,
     name: "admin-news"
   }, {
     path: "/admin/old-organizations",
-    component: _1496006b,
+    component: _7c24f872,
     name: "admin-old-organizations"
   }, {
     path: "/admin/organizations",
-    component: _0789ac51,
+    component: _02891b75,
     name: "admin-organizations"
   }, {
     path: "/admin/profile",
-    component: _00003d5a,
+    component: _106703b6,
     name: "admin-profile",
     children: [{
       path: "2fa",
-      component: _52b30b9f,
+      component: _083727fb,
       name: "admin-profile-2fa"
     }, {
       path: "general",
-      component: _3c183b7e,
+      component: _535646bc,
       name: "admin-profile-general"
     }, {
       path: "invitations",
-      component: _db5fa81c,
+      component: _48902c4e,
       name: "admin-profile-invitations"
     }, {
       path: "password",
-      component: _12daf375,
+      component: _7f9b125e,
       name: "admin-profile-password"
     }]
   }, {
     path: "/admin/settings",
-    component: _4ce34a7c,
+    component: _53ff4034,
     name: "admin-settings",
     children: [{
       path: "collections",
-      component: _2c874642,
+      component: _09072ffa,
       name: "admin-settings-collections"
     }, {
       path: "consultations",
-      component: _bc90146c,
+      component: _43a1c7ee,
       name: "admin-settings-consultations"
     }, {
       path: "products",
-      component: _64c836c8,
+      component: _fd4f6810,
       name: "admin-settings-products"
     }, {
       path: "roles",
-      component: _37f3f237,
+      component: _70d4285b,
       name: "admin-settings-roles"
     }, {
       path: "tags",
-      component: _071f2c72,
+      component: _615edf23,
       name: "admin-settings-tags"
     }, {
       path: "users",
-      component: _33ae060c,
+      component: _6c8e3c30,
       name: "admin-settings-users"
     }, {
       path: "collections/create",
-      component: _758389bf,
+      component: _c87639ca,
       name: "admin-settings-collections-create"
     }, {
       path: "consultations/create",
-      component: _8609e398,
+      component: _584b8090,
       name: "admin-settings-consultations-create"
     }, {
       path: "products/create",
-      component: _0d94f9a2,
+      component: _5d350474,
       name: "admin-settings-products-create"
     }, {
       path: "roles/create",
-      component: _2382c132,
+      component: _5d35a47a,
       name: "admin-settings-roles-create"
     }, {
       path: "tags/create",
-      component: _8d5dcc52,
+      component: _1b9d600a,
       name: "admin-settings-tags-create"
     }, {
       path: "users/invitation",
-      component: _c4567162,
+      component: _5414c7ab,
       name: "admin-settings-users-invitation"
     }, {
       path: "collections/:id",
-      component: _1c2a0b07,
+      component: _400ae1aa,
       name: "admin-settings-collections-id"
     }, {
       path: "consultations/:id",
-      component: _45846590,
+      component: _045c49ec,
       name: "admin-settings-consultations-id"
     }, {
       path: "products/:id",
-      component: _ee5b43f8,
+      component: _6bf8ec60,
       name: "admin-settings-products-id"
     }, {
       path: "roles/:id",
-      component: _ed11d342,
+      component: _f712f4fa,
       name: "admin-settings-roles-id"
     }, {
       path: "tags/:id",
-      component: _4ecc31ef,
+      component: _04504e4b,
       name: "admin-settings-tags-id"
     }, {
       path: "users/:id",
-      component: _42de1b74,
+      component: _3ddd8a98,
       name: "admin-settings-users-id"
     }, {
       path: "consultations/:id/form",
-      component: _728b7d76,
+      component: _ed90c4cc,
       name: "admin-settings-consultations-id-form"
     }]
   }, {
     path: "/admin/students",
-    component: _40c0a6eb,
+    component: _7ccd5d72,
     name: "admin-students"
   }, {
     path: "/admin/auth/forgot-password",
-    component: _7eaf17ce,
+    component: _38c4e5ac,
     name: "admin-auth-forgot-password"
   }, {
     path: "/admin/auth/login",
-    component: _3298871c,
+    component: _3f57f4ce,
     name: "admin-auth-login"
   }, {
     path: "/admin/auth/reset-password",
-    component: _60a160c0,
+    component: _6aa28278,
     name: "admin-auth-reset-password"
   }, {
     path: "/admin/auth/signup",
-    component: _3c1dbedf,
+    component: _0ffedbfa,
     name: "admin-auth-signup"
   }, {
     path: "/admin/auth/two-factor-challenge",
-    component: _a7e22166,
+    component: _6fdf7371,
     name: "admin-auth-two-factor-challenge"
   }, {
     path: "/admin/auth/two-factor-challenge-recovery",
-    component: _c45c7976,
+    component: _5ca9a7a1,
     name: "admin-auth-two-factor-challenge-recovery"
   }, {
     path: "/admin/course-applicant-lists/course-application-view",
-    component: _1f523dcd,
+    component: _86eb0fae,
     name: "admin-course-applicant-lists-course-application-view",
     children: [{
       path: ":id?/certifications",
-      component: _2faad20c,
+      component: _3b5e2a68,
       name: "admin-course-applicant-lists-course-application-view-id-certifications"
     }, {
       path: ":id?/educations",
-      component: _0933057a,
+      component: _1d8e2854,
       name: "admin-course-applicant-lists-course-application-view-id-educations"
     }, {
       path: ":id?/general",
-      component: _3493ce7b,
+      component: _50b8b7d7,
       name: "admin-course-applicant-lists-course-application-view-id-general"
     }, {
       path: ":id?/hobbies-and-list",
-      component: _1f08c8e4,
+      component: _419d0c9c,
       name: "admin-course-applicant-lists-course-application-view-id-hobbies-and-list"
     }, {
       path: ":id?/projects",
-      component: _3fa85a2b,
+      component: _ed27b0f2,
       name: "admin-course-applicant-lists-course-application-view-id-projects"
     }, {
       path: ":id?/certifications/:id/general",
-      component: _bca162b8,
+      component: _52f516c8,
       name: "admin-course-applicant-lists-course-application-view-id-certifications-id-general"
     }, {
       path: ":id?/educations/:id/general",
-      component: _044df914,
+      component: _cd1f04cc,
       name: "admin-course-applicant-lists-course-application-view-id-educations-id-general"
     }, {
       path: ":id?/projects/:id/general",
-      component: _3f2d35a5,
+      component: _ac362e6e,
       name: "admin-course-applicant-lists-course-application-view-id-projects-id-general"
     }]
   }, {
     path: "/admin/courses/create-course",
-    component: _0cb915b3,
+    component: _45994bd7,
     name: "admin-courses-create-course",
     children: [{
       path: "general",
-      component: _394a9176,
+      component: _7eab29a1,
       name: "admin-courses-create-course-general"
     }, {
       path: ":id?/contents",
-      component: _41077af1,
+      component: _7734be15,
       name: "admin-courses-create-course-id-contents"
     }, {
       path: ":id?/description",
-      component: _85f4d716,
+      component: _5a7a0999,
       name: "admin-courses-create-course-id-description"
     }, {
       path: ":id?/contents/create",
-      component: _079c2ded,
+      component: _d1d1616e,
       name: "admin-courses-create-course-id-contents-create"
     }, {
       path: ":id?/contents/:id/general",
-      component: _42b2ca1f,
+      component: _8b63130a,
       name: "admin-courses-create-course-id-contents-id-general"
     }]
   }, {
     path: "/admin/courses/edit-course",
-    component: _af78a8b6,
+    component: _b979ca6e,
     name: "admin-courses-edit-course",
     children: [{
       path: ":id?/edit-contents",
-      component: _5c939f5a,
+      component: _0c684c94,
       name: "admin-courses-edit-course-id-edit-contents"
     }, {
       path: ":id?/general",
-      component: _01242253,
+      component: _17d04277,
       name: "admin-courses-edit-course-id-general"
     }, {
       path: ":id?/student-applied-courses",
-      component: _f32853be,
+      component: _5053cd7d,
       name: "admin-courses-edit-course-id-student-applied-courses"
     }, {
       path: ":id?/edit-contents/create",
-      component: _5d9496a4,
+      component: _6763a7c8,
       name: "admin-courses-edit-course-id-edit-contents-create"
     }, {
       path: ":id?/edit-contents/:id?/general",
-      component: _d15ce4d4,
+      component: _f79f988c,
       name: "admin-courses-edit-course-id-edit-contents-id-general"
     }]
   }, {
     path: "/admin/event-applicant-lists/event-application-view",
-    component: _6469a59d,
+    component: _1836720e,
     name: "admin-event-applicant-lists-event-application-view",
     children: [{
       path: ":id?/certifications",
-      component: _321b61dc,
+      component: _30412138,
       name: "admin-event-applicant-lists-event-application-view-id-certifications"
     }, {
       path: ":id?/educations",
-      component: _0f83fd4a,
+      component: _5947caa6,
       name: "admin-event-applicant-lists-event-application-view-id-educations"
     }, {
       path: ":id?/general",
-      component: _e11d6b6a,
+      component: _7f38daa7,
       name: "admin-event-applicant-lists-event-application-view-id-general"
     }, {
       path: ":id?/hobbies-and-list",
-      component: _434469be,
+      component: _3d6380e2,
       name: "admin-event-applicant-lists-event-application-view-id-hobbies-and-list"
     }, {
       path: ":id?/projects",
-      component: _7315f40a,
+      component: _73770b52,
       name: "admin-event-applicant-lists-event-application-view-id-projects"
     }, {
       path: ":id?/certifications/:id/general",
-      component: _304454d4,
+      component: _43e5d5f8,
       name: "admin-event-applicant-lists-event-application-view-id-certifications-id-general"
     }, {
       path: ":id?/educations/:id/general",
-      component: _326ebcb4,
+      component: _518054ca,
       name: "admin-event-applicant-lists-event-application-view-id-educations-id-general"
     }, {
       path: ":id?/projects/:id/general",
-      component: _ea62c056,
+      component: _5160cbf9,
       name: "admin-event-applicant-lists-event-application-view-id-projects-id-general"
     }]
   }, {
     path: "/admin/events/create",
-    component: _aa1f4e18,
+    component: _0d2a19d0,
     name: "admin-events-create"
   }, {
     path: "/admin/events/create-event",
-    component: _b80cc7fe,
+    component: _c20de9b6,
     name: "admin-events-create-event",
     children: [{
       path: "general",
-      component: _53b168b7,
+      component: _79f2c213,
       name: "admin-events-create-event-general"
     }, {
       path: ":id?/description",
-      component: _454b397a,
+      component: _fa1c5d32,
       name: "admin-events-create-event-id-description"
     }]
   }, {
     path: "/admin/job-applicant-lists/job-application-view",
-    component: _40ec6806,
+    component: _1eb8094e,
     name: "admin-job-applicant-lists-job-application-view",
     children: [{
       path: ":id?/certifications",
-      component: _171c383c,
+      component: _60e00598,
       name: "admin-job-applicant-lists-job-application-view-id-certifications"
     }, {
       path: ":id?/educations",
-      component: _2fa1f8ac,
+      component: _2ac7df06,
       name: "admin-job-applicant-lists-job-application-view-id-educations"
     }, {
       path: ":id?/general",
-      component: _569ec8ab,
+      component: _0594e707,
       name: "admin-job-applicant-lists-job-application-view-id-general"
     }, {
       path: ":id?/hobbies-and-list",
-      component: _0021d144,
+      component: _2b5f6082,
       name: "admin-job-applicant-lists-job-application-view-id-hobbies-and-list"
     }, {
       path: ":id?/projects",
-      component: _58ee245b,
+      component: _0103b292,
       name: "admin-job-applicant-lists-job-application-view-id-projects"
     }, {
       path: ":id?/certifications/:id/general",
-      component: _4990db18,
+      component: _45ef4598,
       name: "admin-job-applicant-lists-job-application-view-id-certifications-id-general"
     }, {
       path: ":id?/educations/:id/general",
-      component: _433baf46,
+      component: _5bf2946a,
       name: "admin-job-applicant-lists-job-application-view-id-educations-id-general"
     }, {
       path: ":id?/projects/:id/general",
-      component: _45e89575,
+      component: _349e7399,
       name: "admin-job-applicant-lists-job-application-view-id-projects-id-general"
     }]
   }, {
     path: "/admin/mentors/add-mentor",
-    component: _91fe8220,
+    component: _6c84db4c,
     name: "admin-mentors-add-mentor",
     children: [{
       path: "create",
-      component: _1d915528,
+      component: _b1115470,
       name: "admin-mentors-add-mentor-create"
     }, {
       path: ":id?/educations",
-      component: _60490d9d,
+      component: _d8d6540e,
       name: "admin-mentors-add-mentor-id-educations"
     }, {
       path: ":id?/sessions",
-      component: _2e1019ea,
+      component: _0bdbbb32,
       name: "admin-mentors-add-mentor-id-sessions"
     }, {
       path: ":id?/work-experiences",
-      component: _9c5d97ca,
+      component: _3c377112,
       name: "admin-mentors-add-mentor-id-work-experiences"
     }, {
       path: ":id?/educations/create",
-      component: _5ee61e7e,
+      component: _06ba33e5,
       name: "admin-mentors-add-mentor-id-educations-create"
     }, {
       path: ":id?/sessions/create",
-      component: _5dbab913,
+      component: _6fe67537,
       name: "admin-mentors-add-mentor-id-sessions-create"
     }, {
       path: ":id?/work-experiences/create",
-      component: _9feccbfa,
+      component: _fb4e1bb2,
       name: "admin-mentors-add-mentor-id-work-experiences-create"
     }, {
       path: ":id?/educations/:id/general",
-      component: _4199c41a,
+      component: _9cfb13d2,
       name: "admin-mentors-add-mentor-id-educations-id-general"
     }, {
       path: ":id?/sessions/:id/general",
-      component: _32ac3e76,
+      component: _1f0e1c2e,
       name: "admin-mentors-add-mentor-id-sessions-id-general"
     }, {
       path: ":id?/work-experiences/:id?/general",
-      component: _5baf6496,
+      component: _01f5fad9,
       name: "admin-mentors-add-mentor-id-work-experiences-id-general"
     }]
   }, {
     path: "/admin/mentors/edit-mentor",
-    component: _25c6d271,
+    component: _20c64195,
     name: "admin-mentors-edit-mentor",
     children: [{
       path: ":id?/educations",
-      component: _e1c623c4,
+      component: _756b9d7c,
       name: "admin-mentors-edit-mentor-id-educations"
     }, {
       path: ":id?/general",
-      component: _4a05741f,
+      component: _60b19443,
       name: "admin-mentors-edit-mentor-id-general"
     }, {
       path: ":id?/sessions",
-      component: _709bffcc,
+      component: _fa708820,
       name: "admin-mentors-edit-mentor-id-sessions"
     }, {
       path: ":id?/work-experiences",
-      component: _5240efdc,
+      component: _24904800,
       name: "admin-mentors-edit-mentor-id-work-experiences"
     }, {
       path: ":id?/educations/create",
-      component: _7c352060,
+      component: _0bb041bc,
       name: "admin-mentors-edit-mentor-id-educations-create"
     }, {
       path: ":id?/sessions/create",
-      component: _6acf771c,
+      component: _0437e664,
       name: "admin-mentors-edit-mentor-id-sessions-create"
     }, {
       path: ":id?/work-experiences/create",
-      component: _1d915662,
+      component: _d5a5fa84,
       name: "admin-mentors-edit-mentor-id-work-experiences-create"
     }, {
       path: ":id?/educations/:id/general",
-      component: _4cbada52,
+      component: _7752f2a4,
       name: "admin-mentors-edit-mentor-id-educations-id-general"
     }, {
       path: ":id?/sessions/:id/general",
-      component: _1d6328e4,
+      component: _4d763c40,
       name: "admin-mentors-edit-mentor-id-sessions-id-general"
     }, {
       path: ":id?/work-experiences/:id?/general",
-      component: _736306d4,
+      component: _3d4afe30,
       name: "admin-mentors-edit-mentor-id-work-experiences-id-general"
     }]
   }, {
     path: "/admin/news/create-news-test",
-    component: _75a5202d,
+    component: _a2f5535e,
     name: "admin-news-create-news-test"
   }, {
     path: "/admin/organizations/invitations",
-    component: _200e3029,
+    component: _290b7b85,
     name: "admin-organizations-invitations"
   }, {
     path: "/admin/students/skills-and-hobbies",
-    component: _1d42ee9c,
+    component: _47ca5a10,
     name: "admin-students-skills-and-hobbies"
   }, {
     path: "/admin/students/student-view",
-    component: _18a5fe6e,
+    component: _51863492,
     name: "admin-students-student-view",
     children: [{
       path: ":id?/certifications",
-      component: _b5c571a6,
+      component: _776c9f51,
       name: "admin-students-student-view-id-certifications"
     }, {
       path: ":id?/educations",
-      component: _55a7331b,
+      component: _94df8582,
       name: "admin-students-student-view-id-educations"
     }, {
       path: ":id?/general",
-      component: _19553d48,
+      component: _0f7a0880,
       name: "admin-students-student-view-id-general"
     }, {
       path: ":id?/hobbies-and-list",
-      component: _5c2a9466,
+      component: _6165d729,
       name: "admin-students-student-view-id-hobbies-and-list"
     }, {
       path: ":id?/projects",
-      component: _04dd7c0c,
+      component: _3b0abf30,
       name: "admin-students-student-view-id-projects"
     }, {
       path: ":id?/certifications/:id/general",
-      component: _54f3fb3a,
+      component: _c1240c82,
       name: "admin-students-student-view-id-certifications-id-general"
     }, {
       path: ":id?/educations/:id/general",
-      component: _70656eb5,
+      component: _6fc77411,
       name: "admin-students-student-view-id-educations-id-general"
     }, {
       path: ":id?/projects/:id/general",
-      component: _780964a4,
+      component: _20b5de00,
       name: "admin-students-student-view-id-projects-id-general"
     }]
   }, {
     path: "/admin/news/create-news/general",
-    component: _bb7ea054,
+    component: _661133fa,
     name: "admin-news-create-news-general"
   }, {
     path: "/admin/organizations/company/create",
-    component: _9805c190,
+    component: _55e6f15c,
     name: "admin-organizations-company-create"
   }, {
     path: "/",
-    component: _3792553c,
+    component: _69d23786,
     name: "index"
   }, {
     path: "/admin/events/edit-event/:id?",
-    component: _6fc0a93b,
+    component: _52e73797,
     name: "admin-events-edit-event-id",
     children: [{
       path: "description",
-      component: _43168751,
+      component: _5f3b2e75,
       name: "admin-events-edit-event-id-description"
     }, {
       path: "general",
-      component: _29a6c686,
+      component: _8c2b143e,
       name: "admin-events-edit-event-id-general"
     }, {
       path: "student-applied-events",
-      component: _21dda968,
+      component: _48205d20,
       name: "admin-events-edit-event-id-student-applied-events"
     }]
   }, {
     path: "/admin/news/edit-news/:id-test?",
-    component: _2765f0f9,
+    component: _49bb4f56,
     name: "admin-news-edit-news-id-test"
   }, {
     path: "/admin/organizations/company/:id?",
-    component: _2348102e,
+    component: _4cefdeec,
     name: "admin-organizations-company-id"
   }, {
     path: "/admin/news/create-news/:id?/description",
-    component: _72efaf04,
+    component: _31c79360,
     name: "admin-news-create-news-id-description"
   }, {
     path: "/admin/news/edit-news/:id?/description",
-    component: _0fc2aab6,
+    component: _18bff612,
     name: "admin-news-edit-news-id-description"
   }, {
     path: "/admin/news/edit-news/:id?/general",
-    component: _1b578abc,
+    component: _189593fe,
     name: "admin-news-edit-news-id-general"
   }, {
     path: "/admin/companies/:id/application",
-    component: _899e67bc,
+    component: _7170cc7e,
     name: "admin-companies-id-application"
   }, {
     path: "/admin/events/:id/general",
-    component: _354653e6,
+    component: _3045c30a,
     name: "admin-events-id-general"
   }, {
     path: "/admin/feedbacks/:id/application",
-    component: _4f105795,
+    component: _055057f1,
     name: "admin-feedbacks-id-application"
   }, {
     path: "/admin/jobs/:id/application",
-    component: _42a8a2ea,
+    component: _178be4af,
     name: "admin-jobs-id-application"
   }, {
     path: "/admin/news/:id/general",
-    component: _2f8fd8e0,
+    component: _2d28c104,
     name: "admin-news-id-general"
   }],
 

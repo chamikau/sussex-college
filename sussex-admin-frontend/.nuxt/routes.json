@@ -2,25 +2,25 @@
   {
     "name": "admin-approval",
     "path": "/admin/approval",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval.vue",
     "chunkName": "pages/admin/approval",
     "children": [
       {
         "name": "admin-approval-blocked-list",
         "path": "blocked-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\blocked-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\blocked-list.vue",
         "chunkName": "pages/admin/approval/blocked-list"
       },
       {
         "name": "admin-approval-pending-list",
         "path": "pending-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\pending-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\pending-list.vue",
         "chunkName": "pages/admin/approval/pending-list"
       },
       {
         "name": "admin-approval-verified-list",
         "path": "verified-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\verified-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\verified-list.vue",
         "chunkName": "pages/admin/approval/verified-list"
       }
     ]
@@ -28,73 +28,73 @@
   {
     "name": "admin-companies",
     "path": "/admin/companies",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\companies\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\companies\\\\index.vue",
     "chunkName": "pages/admin/companies/index"
   },
   {
     "name": "admin-confirm-password",
     "path": "/admin/confirm-password",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\confirm-password.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\confirm-password.vue",
     "chunkName": "pages/admin/confirm-password"
   },
   {
     "name": "admin-course-applicant-lists",
     "path": "/admin/course-applicant-lists",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\index.vue",
     "chunkName": "pages/admin/course-applicant-lists/index"
   },
   {
     "name": "admin-courses",
     "path": "/admin/courses",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\index.vue",
     "chunkName": "pages/admin/courses/index"
   },
   {
     "name": "admin-dashboard",
     "path": "/admin/dashboard",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\dashboard.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\dashboard.vue",
     "chunkName": "pages/admin/dashboard"
   },
   {
     "name": "admin-document-list",
     "path": "/admin/document-list",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list.vue",
     "chunkName": "pages/admin/document-list",
     "children": [
       {
         "name": "admin-document-list-achievements",
         "path": "achievements",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\achievements\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\achievements\\\\index.vue",
         "chunkName": "pages/admin/document-list/achievements/index"
       },
       {
         "name": "admin-document-list-educations",
         "path": "educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/document-list/educations/index"
       },
       {
         "name": "admin-document-list-personal",
         "path": "personal",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\personal\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\personal\\\\index.vue",
         "chunkName": "pages/admin/document-list/personal/index"
       },
       {
         "name": "admin-document-list-projects",
         "path": "projects",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\projects\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\projects\\\\index.vue",
         "chunkName": "pages/admin/document-list/projects/index"
       },
       {
         "name": "admin-document-list-references",
         "path": "references",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\references\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\references\\\\index.vue",
         "chunkName": "pages/admin/document-list/references/index"
       },
       {
         "name": "admin-document-list-work-experience",
         "path": "work-experience",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\work-experience\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\work-experience\\\\index.vue",
         "chunkName": "pages/admin/document-list/work-experience/index"
       }
     ]
@@ -102,85 +102,85 @@
   {
     "name": "admin-event-applicant-lists",
     "path": "/admin/event-applicant-lists",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\index.vue",
     "chunkName": "pages/admin/event-applicant-lists/index"
   },
   {
     "name": "admin-events",
     "path": "/admin/events",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\index.vue",
     "chunkName": "pages/admin/events/index"
   },
   {
     "name": "admin-feedbacks",
     "path": "/admin/feedbacks",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\feedbacks\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\feedbacks\\\\index.vue",
     "chunkName": "pages/admin/feedbacks/index"
   },
   {
     "name": "admin-job-applicant-lists",
     "path": "/admin/job-applicant-lists",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\index.vue",
     "chunkName": "pages/admin/job-applicant-lists/index"
   },
   {
     "name": "admin-jobs",
     "path": "/admin/jobs",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\jobs\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\jobs\\\\index.vue",
     "chunkName": "pages/admin/jobs/index"
   },
   {
     "name": "admin-mentors",
     "path": "/admin/mentors",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\index.vue",
     "chunkName": "pages/admin/mentors/index"
   },
   {
     "name": "admin-news",
     "path": "/admin/news",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\index.vue",
     "chunkName": "pages/admin/news/index"
   },
   {
     "name": "admin-old-organizations",
     "path": "/admin/old-organizations",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\old-organizations.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\old-organizations.vue",
     "chunkName": "pages/admin/old-organizations"
   },
   {
     "name": "admin-organizations",
     "path": "/admin/organizations",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\index.vue",
     "chunkName": "pages/admin/organizations/index"
   },
   {
     "name": "admin-profile",
     "path": "/admin/profile",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile.vue",
     "chunkName": "pages/admin/profile",
     "children": [
       {
         "name": "admin-profile-2fa",
         "path": "2fa",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\2fa\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\2fa\\\\index.vue",
         "chunkName": "pages/admin/profile/2fa/index"
       },
       {
         "name": "admin-profile-general",
         "path": "general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\general.vue",
         "chunkName": "pages/admin/profile/general"
       },
       {
         "name": "admin-profile-invitations",
         "path": "invitations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\invitations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\invitations\\\\index.vue",
         "chunkName": "pages/admin/profile/invitations/index"
       },
       {
         "name": "admin-profile-password",
         "path": "password",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\password.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\password.vue",
         "chunkName": "pages/admin/profile/password"
       }
     ]
@@ -188,121 +188,121 @@
   {
     "name": "admin-settings",
     "path": "/admin/settings",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings.vue",
     "chunkName": "pages/admin/settings",
     "children": [
       {
         "name": "admin-settings-collections",
         "path": "collections",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\index.vue",
         "chunkName": "pages/admin/settings/collections/index"
       },
       {
         "name": "admin-settings-consultations",
         "path": "consultations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\index.vue",
         "chunkName": "pages/admin/settings/consultations/index"
       },
       {
         "name": "admin-settings-products",
         "path": "products",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\index.vue",
         "chunkName": "pages/admin/settings/products/index"
       },
       {
         "name": "admin-settings-roles",
         "path": "roles",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\index.vue",
         "chunkName": "pages/admin/settings/roles/index"
       },
       {
         "name": "admin-settings-tags",
         "path": "tags",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\index.vue",
         "chunkName": "pages/admin/settings/tags/index"
       },
       {
         "name": "admin-settings-users",
         "path": "users",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\index.vue",
         "chunkName": "pages/admin/settings/users/index"
       },
       {
         "name": "admin-settings-collections-create",
         "path": "collections/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\create.vue",
         "chunkName": "pages/admin/settings/collections/create"
       },
       {
         "name": "admin-settings-consultations-create",
         "path": "consultations/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\create.vue",
         "chunkName": "pages/admin/settings/consultations/create"
       },
       {
         "name": "admin-settings-products-create",
         "path": "products/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\create.vue",
         "chunkName": "pages/admin/settings/products/create"
       },
       {
         "name": "admin-settings-roles-create",
         "path": "roles/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\create.vue",
         "chunkName": "pages/admin/settings/roles/create"
       },
       {
         "name": "admin-settings-tags-create",
         "path": "tags/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\create.vue",
         "chunkName": "pages/admin/settings/tags/create"
       },
       {
         "name": "admin-settings-users-invitation",
         "path": "users/invitation",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\invitation.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\invitation.vue",
         "chunkName": "pages/admin/settings/users/invitation"
       },
       {
         "name": "admin-settings-collections-id",
         "path": "collections/:id",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\_id.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\_id.vue",
         "chunkName": "pages/admin/settings/collections/_id"
       },
       {
         "name": "admin-settings-consultations-id",
         "path": "consultations/:id",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\_id\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\_id\\\\index.vue",
         "chunkName": "pages/admin/settings/consultations/_id/index"
       },
       {
         "name": "admin-settings-products-id",
         "path": "products/:id",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\_id.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\_id.vue",
         "chunkName": "pages/admin/settings/products/_id"
       },
       {
         "name": "admin-settings-roles-id",
         "path": "roles/:id",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\_id.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\_id.vue",
         "chunkName": "pages/admin/settings/roles/_id"
       },
       {
         "name": "admin-settings-tags-id",
         "path": "tags/:id",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\_id.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\_id.vue",
         "chunkName": "pages/admin/settings/tags/_id"
       },
       {
         "name": "admin-settings-users-id",
         "path": "users/:id",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\_id.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\_id.vue",
         "chunkName": "pages/admin/settings/users/_id"
       },
       {
         "name": "admin-settings-consultations-id-form",
         "path": "consultations/:id/form",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\_id\\\\form.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\_id\\\\form.vue",
         "chunkName": "pages/admin/settings/consultations/_id/form"
       }
     ]
@@ -310,97 +310,97 @@
   {
     "name": "admin-students",
     "path": "/admin/students",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\index.vue",
     "chunkName": "pages/admin/students/index"
   },
   {
     "name": "admin-auth-forgot-password",
     "path": "/admin/auth/forgot-password",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\forgot-password.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\forgot-password.vue",
     "chunkName": "pages/admin/auth/forgot-password"
   },
   {
     "name": "admin-auth-login",
     "path": "/admin/auth/login",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\login.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\login.vue",
     "chunkName": "pages/admin/auth/login"
   },
   {
     "name": "admin-auth-reset-password",
     "path": "/admin/auth/reset-password",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\reset-password.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\reset-password.vue",
     "chunkName": "pages/admin/auth/reset-password"
   },
   {
     "name": "admin-auth-signup",
     "path": "/admin/auth/signup",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\signup.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\signup.vue",
     "chunkName": "pages/admin/auth/signup"
   },
   {
     "name": "admin-auth-two-factor-challenge",
     "path": "/admin/auth/two-factor-challenge",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\two-factor-challenge.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\two-factor-challenge.vue",
     "chunkName": "pages/admin/auth/two-factor-challenge"
   },
   {
     "name": "admin-auth-two-factor-challenge-recovery",
     "path": "/admin/auth/two-factor-challenge-recovery",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\two-factor-challenge-recovery.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\two-factor-challenge-recovery.vue",
     "chunkName": "pages/admin/auth/two-factor-challenge-recovery"
   },
   {
     "name": "admin-course-applicant-lists-course-application-view",
     "path": "/admin/course-applicant-lists/course-application-view",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view.vue",
     "chunkName": "pages/admin/course-applicant-lists/course-application-view",
     "children": [
       {
         "name": "admin-course-applicant-lists-course-application-view-id-certifications",
         "path": ":id?/certifications",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\certifications\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\certifications\\\\index.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/certifications/index"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-educations",
         "path": ":id?/educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/educations/index"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-general",
         "path": ":id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/general"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\hobbies-and-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\hobbies-and-list.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-projects",
         "path": ":id?/projects",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\projects\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\projects\\\\index.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/projects/index"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/educations/_id/general"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/projects/_id/general"
       }
     ]
@@ -408,37 +408,37 @@
   {
     "name": "admin-courses-create-course",
     "path": "/admin/courses/create-course",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course.vue",
     "chunkName": "pages/admin/courses/create-course",
     "children": [
       {
         "name": "admin-courses-create-course-general",
         "path": "general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\general.vue",
         "chunkName": "pages/admin/courses/create-course/general"
       },
       {
         "name": "admin-courses-create-course-id-contents",
         "path": ":id?/contents",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\index.vue",
         "chunkName": "pages/admin/courses/create-course/_id/contents/index"
       },
       {
         "name": "admin-courses-create-course-id-description",
         "path": ":id?/description",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\description.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\description.vue",
         "chunkName": "pages/admin/courses/create-course/_id/description"
       },
       {
         "name": "admin-courses-create-course-id-contents-create",
         "path": ":id?/contents/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\create.vue",
         "chunkName": "pages/admin/courses/create-course/_id/contents/create"
       },
       {
         "name": "admin-courses-create-course-id-contents-id-general",
         "path": ":id?/contents/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/courses/create-course/_id/contents/_id/general"
       }
     ]
@@ -446,37 +446,37 @@
   {
     "name": "admin-courses-edit-course",
     "path": "/admin/courses/edit-course",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course.vue",
     "chunkName": "pages/admin/courses/edit-course",
     "children": [
       {
         "name": "admin-courses-edit-course-id-edit-contents",
         "path": ":id?/edit-contents",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\index.vue",
         "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/index"
       },
       {
         "name": "admin-courses-edit-course-id-general",
         "path": ":id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/courses/edit-course/_id/general"
       },
       {
         "name": "admin-courses-edit-course-id-student-applied-courses",
         "path": ":id?/student-applied-courses",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\student-applied-courses\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\student-applied-courses\\\\index.vue",
         "chunkName": "pages/admin/courses/edit-course/_id/student-applied-courses/index"
       },
       {
         "name": "admin-courses-edit-course-id-edit-contents-create",
         "path": ":id?/edit-contents/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\create.vue",
         "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/create"
       },
       {
         "name": "admin-courses-edit-course-id-edit-contents-id-general",
         "path": ":id?/edit-contents/:id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/_id/general"
       }
     ]
@@ -484,55 +484,55 @@
   {
     "name": "admin-event-applicant-lists-event-application-view",
     "path": "/admin/event-applicant-lists/event-application-view",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view.vue",
     "chunkName": "pages/admin/event-applicant-lists/event-application-view",
     "children": [
       {
         "name": "admin-event-applicant-lists-event-application-view-id-certifications",
         "path": ":id?/certifications",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\certifications\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\certifications\\\\index.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/certifications/index"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-educations",
         "path": ":id?/educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/educations/index"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-general",
         "path": ":id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/general"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\hobbies-and-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\hobbies-and-list.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-projects",
         "path": ":id?/projects",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\projects\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\projects\\\\index.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/projects/index"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/educations/_id/general"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/projects/_id/general"
       }
     ]
@@ -540,25 +540,25 @@
   {
     "name": "admin-events-create",
     "path": "/admin/events/create",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create.vue",
     "chunkName": "pages/admin/events/create"
   },
   {
     "name": "admin-events-create-event",
     "path": "/admin/events/create-event",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event.vue",
     "chunkName": "pages/admin/events/create-event",
     "children": [
       {
         "name": "admin-events-create-event-general",
         "path": "general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event\\\\general.vue",
         "chunkName": "pages/admin/events/create-event/general"
       },
       {
         "name": "admin-events-create-event-id-description",
         "path": ":id?/description",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event\\\\_id\\\\description.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event\\\\_id\\\\description.vue",
         "chunkName": "pages/admin/events/create-event/_id/description"
       }
     ]
@@ -566,55 +566,55 @@
   {
     "name": "admin-job-applicant-lists-job-application-view",
     "path": "/admin/job-applicant-lists/job-application-view",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view.vue",
     "chunkName": "pages/admin/job-applicant-lists/job-application-view",
     "children": [
       {
         "name": "admin-job-applicant-lists-job-application-view-id-certifications",
         "path": ":id?/certifications",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\certifications\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\certifications\\\\index.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/certifications/index"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-educations",
         "path": ":id?/educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/educations/index"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-general",
         "path": ":id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/general"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\hobbies-and-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\hobbies-and-list.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-projects",
         "path": ":id?/projects",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\projects\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\projects\\\\index.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/projects/index"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/educations/_id/general"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/projects/_id/general"
       }
     ]
@@ -622,67 +622,67 @@
   {
     "name": "admin-mentors-add-mentor",
     "path": "/admin/mentors/add-mentor",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor.vue",
     "chunkName": "pages/admin/mentors/add-mentor",
     "children": [
       {
         "name": "admin-mentors-add-mentor-create",
         "path": "create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\create.vue",
         "chunkName": "pages/admin/mentors/add-mentor/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-educations",
         "path": ":id?/educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/educations/index"
       },
       {
         "name": "admin-mentors-add-mentor-id-sessions",
         "path": ":id?/sessions",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\index.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/index"
       },
       {
         "name": "admin-mentors-add-mentor-id-work-experiences",
         "path": ":id?/work-experiences",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\index.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/index"
       },
       {
         "name": "admin-mentors-add-mentor-id-educations-create",
         "path": ":id?/educations/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\create.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/educations/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-sessions-create",
         "path": ":id?/sessions/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\create.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-work-experiences-create",
         "path": ":id?/work-experiences/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\create.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-educations-id-general",
         "path": ":id?/educations/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/educations/_id/general"
       },
       {
         "name": "admin-mentors-add-mentor-id-sessions-id-general",
         "path": ":id?/sessions/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/_id/general"
       },
       {
         "name": "admin-mentors-add-mentor-id-work-experiences-id-general",
         "path": ":id?/work-experiences/:id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/_id/general"
       }
     ]
@@ -690,67 +690,67 @@
   {
     "name": "admin-mentors-edit-mentor",
     "path": "/admin/mentors/edit-mentor",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor.vue",
     "chunkName": "pages/admin/mentors/edit-mentor",
     "children": [
       {
         "name": "admin-mentors-edit-mentor-id-educations",
         "path": ":id?/educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/index"
       },
       {
         "name": "admin-mentors-edit-mentor-id-general",
         "path": ":id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/general"
       },
       {
         "name": "admin-mentors-edit-mentor-id-sessions",
         "path": ":id?/sessions",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\index.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/index"
       },
       {
         "name": "admin-mentors-edit-mentor-id-work-experiences",
         "path": ":id?/work-experiences",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\index.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/index"
       },
       {
         "name": "admin-mentors-edit-mentor-id-educations-create",
         "path": ":id?/educations/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\create.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/create"
       },
       {
         "name": "admin-mentors-edit-mentor-id-sessions-create",
         "path": ":id?/sessions/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\create.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/create"
       },
       {
         "name": "admin-mentors-edit-mentor-id-work-experiences-create",
         "path": ":id?/work-experiences/create",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\create.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\create.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/create"
       },
       {
         "name": "admin-mentors-edit-mentor-id-educations-id-general",
         "path": ":id?/educations/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/_id/general"
       },
       {
         "name": "admin-mentors-edit-mentor-id-sessions-id-general",
         "path": ":id?/sessions/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/_id/general"
       },
       {
         "name": "admin-mentors-edit-mentor-id-work-experiences-id-general",
         "path": ":id?/work-experiences/:id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/_id/general"
       }
     ]
@@ -758,73 +758,73 @@
   {
     "name": "admin-news-create-news-test",
     "path": "/admin/news/create-news-test",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news-test.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news-test.vue",
     "chunkName": "pages/admin/news/create-news-test"
   },
   {
     "name": "admin-organizations-invitations",
     "path": "/admin/organizations/invitations",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\invitations\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\invitations\\\\index.vue",
     "chunkName": "pages/admin/organizations/invitations/index"
   },
   {
     "name": "admin-students-skills-and-hobbies",
     "path": "/admin/students/skills-and-hobbies",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\skills-and-hobbies\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\skills-and-hobbies\\\\index.vue",
     "chunkName": "pages/admin/students/skills-and-hobbies/index"
   },
   {
     "name": "admin-students-student-view",
     "path": "/admin/students/student-view",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view.vue",
     "chunkName": "pages/admin/students/student-view",
     "children": [
       {
         "name": "admin-students-student-view-id-certifications",
         "path": ":id?/certifications",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\certifications\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\certifications\\\\index.vue",
         "chunkName": "pages/admin/students/student-view/_id/certifications/index"
       },
       {
         "name": "admin-students-student-view-id-educations",
         "path": ":id?/educations",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\educations\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\educations\\\\index.vue",
         "chunkName": "pages/admin/students/student-view/_id/educations/index"
       },
       {
         "name": "admin-students-student-view-id-general",
         "path": ":id?/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/students/student-view/_id/general"
       },
       {
         "name": "admin-students-student-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\hobbies-and-list.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\hobbies-and-list.vue",
         "chunkName": "pages/admin/students/student-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-students-student-view-id-projects",
         "path": ":id?/projects",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\projects\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\projects\\\\index.vue",
         "chunkName": "pages/admin/students/student-view/_id/projects/index"
       },
       {
         "name": "admin-students-student-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/students/student-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-students-student-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/students/student-view/_id/educations/_id/general"
       },
       {
         "name": "admin-students-student-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/students/student-view/_id/projects/_id/general"
       }
     ]
@@ -832,43 +832,43 @@
   {
     "name": "admin-news-create-news-general",
     "path": "/admin/news/create-news/general",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news\\\\general.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news\\\\general.vue",
     "chunkName": "pages/admin/news/create-news/general"
   },
   {
     "name": "admin-organizations-company-create",
     "path": "/admin/organizations/company/create",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\company\\\\create.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\company\\\\create.vue",
     "chunkName": "pages/admin/organizations/company/create"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\index.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\index.vue",
     "chunkName": "pages/index"
   },
   {
     "name": "admin-events-edit-event-id",
     "path": "/admin/events/edit-event/:id?",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id.vue",
     "chunkName": "pages/admin/events/edit-event/_id",
     "children": [
       {
         "name": "admin-events-edit-event-id-description",
         "path": "description",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\description.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\description.vue",
         "chunkName": "pages/admin/events/edit-event/_id/description"
       },
       {
         "name": "admin-events-edit-event-id-general",
         "path": "general",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\general.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\general.vue",
         "chunkName": "pages/admin/events/edit-event/_id/general"
       },
       {
         "name": "admin-events-edit-event-id-student-applied-events",
         "path": "student-applied-events",
-        "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\student-applied-events\\\\index.vue",
+        "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\student-applied-events\\\\index.vue",
         "chunkName": "pages/admin/events/edit-event/_id/student-applied-events/index"
       }
     ]
@@ -876,61 +876,61 @@
   {
     "name": "admin-news-edit-news-id-test",
     "path": "/admin/news/edit-news/:id-test?",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id-test.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id-test.vue",
     "chunkName": "pages/admin/news/edit-news/_id-test"
   },
   {
     "name": "admin-organizations-company-id",
     "path": "/admin/organizations/company/:id?",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\company\\\\_id.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\company\\\\_id.vue",
     "chunkName": "pages/admin/organizations/company/_id"
   },
   {
     "name": "admin-news-create-news-id-description",
     "path": "/admin/news/create-news/:id?/description",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news\\\\_id\\\\description.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news\\\\_id\\\\description.vue",
     "chunkName": "pages/admin/news/create-news/_id/description"
   },
   {
     "name": "admin-news-edit-news-id-description",
     "path": "/admin/news/edit-news/:id?/description",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id\\\\description.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id\\\\description.vue",
     "chunkName": "pages/admin/news/edit-news/_id/description"
   },
   {
     "name": "admin-news-edit-news-id-general",
     "path": "/admin/news/edit-news/:id?/general",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id\\\\general.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id\\\\general.vue",
     "chunkName": "pages/admin/news/edit-news/_id/general"
   },
   {
     "name": "admin-companies-id-application",
     "path": "/admin/companies/:id/application",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\companies\\\\_id\\\\application.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\companies\\\\_id\\\\application.vue",
     "chunkName": "pages/admin/companies/_id/application"
   },
   {
     "name": "admin-events-id-general",
     "path": "/admin/events/:id/general",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\_id\\\\general.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\_id\\\\general.vue",
     "chunkName": "pages/admin/events/_id/general"
   },
   {
     "name": "admin-feedbacks-id-application",
     "path": "/admin/feedbacks/:id/application",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\feedbacks\\\\_id\\\\application.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\feedbacks\\\\_id\\\\application.vue",
     "chunkName": "pages/admin/feedbacks/_id/application"
   },
   {
     "name": "admin-jobs-id-application",
     "path": "/admin/jobs/:id/application",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\jobs\\\\_id\\\\application.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\jobs\\\\_id\\\\application.vue",
     "chunkName": "pages/admin/jobs/_id/application"
   },
   {
     "name": "admin-news-id-general",
     "path": "/admin/news/:id/general",
-    "component": "F:\\\\Doc\\\\Univotec\\\\2020 Year\\\\Sem 5\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\_id\\\\general.vue",
+    "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\_id\\\\general.vue",
     "chunkName": "pages/admin/news/_id/general"
   }
 ]
