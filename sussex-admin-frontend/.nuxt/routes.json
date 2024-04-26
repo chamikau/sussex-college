@@ -9,60 +9,51 @@
         "name": "admin-approval-blocked-list",
         "path": "blocked-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\blocked-list.vue",
-        "chunkName": "pages/admin/approval/blocked-list",
-        "_name": "_6a92ad36"
+        "chunkName": "pages/admin/approval/blocked-list"
       },
       {
         "name": "admin-approval-pending-list",
         "path": "pending-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\pending-list.vue",
-        "chunkName": "pages/admin/approval/pending-list",
-        "_name": "_7c4d1bcc"
+        "chunkName": "pages/admin/approval/pending-list"
       },
       {
         "name": "admin-approval-verified-list",
         "path": "verified-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\approval\\\\verified-list.vue",
-        "chunkName": "pages/admin/approval/verified-list",
-        "_name": "_39e1fced"
+        "chunkName": "pages/admin/approval/verified-list"
       }
-    ],
-    "_name": "_78fe0bf4"
+    ]
   },
   {
     "name": "admin-companies",
     "path": "/admin/companies",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\companies\\\\index.vue",
-    "chunkName": "pages/admin/companies/index",
-    "_name": "_71ddddda"
+    "chunkName": "pages/admin/companies/index"
   },
   {
     "name": "admin-confirm-password",
     "path": "/admin/confirm-password",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\confirm-password.vue",
-    "chunkName": "pages/admin/confirm-password",
-    "_name": "_6f23bd4b"
+    "chunkName": "pages/admin/confirm-password"
   },
   {
     "name": "admin-course-applicant-lists",
     "path": "/admin/course-applicant-lists",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\index.vue",
-    "chunkName": "pages/admin/course-applicant-lists/index",
-    "_name": "_039d96c7"
+    "chunkName": "pages/admin/course-applicant-lists/index"
   },
   {
     "name": "admin-courses",
     "path": "/admin/courses",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\index.vue",
-    "chunkName": "pages/admin/courses/index",
-    "_name": "_6e7ca2c6"
+    "chunkName": "pages/admin/courses/index"
   },
   {
     "name": "admin-dashboard",
     "path": "/admin/dashboard",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\dashboard.vue",
-    "chunkName": "pages/admin/dashboard",
-    "_name": "_31fc643e"
+    "chunkName": "pages/admin/dashboard"
   },
   {
     "name": "admin-document-list",
@@ -74,109 +65,93 @@
         "name": "admin-document-list-achievements",
         "path": "achievements",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\achievements\\\\index.vue",
-        "chunkName": "pages/admin/document-list/achievements/index",
-        "_name": "_27d2f8a1"
+        "chunkName": "pages/admin/document-list/achievements/index"
       },
       {
         "name": "admin-document-list-educations",
         "path": "educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/document-list/educations/index",
-        "_name": "_0bd4034c"
+        "chunkName": "pages/admin/document-list/educations/index"
       },
       {
         "name": "admin-document-list-personal",
         "path": "personal",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\personal\\\\index.vue",
-        "chunkName": "pages/admin/document-list/personal/index",
-        "_name": "_76eec585"
+        "chunkName": "pages/admin/document-list/personal/index"
       },
       {
         "name": "admin-document-list-projects",
         "path": "projects",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\projects\\\\index.vue",
-        "chunkName": "pages/admin/document-list/projects/index",
-        "_name": "_44b40b0b"
+        "chunkName": "pages/admin/document-list/projects/index"
       },
       {
         "name": "admin-document-list-references",
         "path": "references",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\references\\\\index.vue",
-        "chunkName": "pages/admin/document-list/references/index",
-        "_name": "_24af0d06"
+        "chunkName": "pages/admin/document-list/references/index"
       },
       {
         "name": "admin-document-list-work-experience",
         "path": "work-experience",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\document-list\\\\work-experience\\\\index.vue",
-        "chunkName": "pages/admin/document-list/work-experience/index",
-        "_name": "_bd7ebf6e"
+        "chunkName": "pages/admin/document-list/work-experience/index"
       }
-    ],
-    "_name": "_0ac1dcdd"
+    ]
   },
   {
     "name": "admin-event-applicant-lists",
     "path": "/admin/event-applicant-lists",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\index.vue",
-    "chunkName": "pages/admin/event-applicant-lists/index",
-    "_name": "_3b4ff5de"
+    "chunkName": "pages/admin/event-applicant-lists/index"
   },
   {
     "name": "admin-events",
     "path": "/admin/events",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\index.vue",
-    "chunkName": "pages/admin/events/index",
-    "_name": "_0f05e466"
+    "chunkName": "pages/admin/events/index"
   },
   {
     "name": "admin-feedbacks",
     "path": "/admin/feedbacks",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\feedbacks\\\\index.vue",
-    "chunkName": "pages/admin/feedbacks/index",
-    "_name": "_5e3a0772"
+    "chunkName": "pages/admin/feedbacks/index"
   },
   {
     "name": "admin-job-applicant-lists",
     "path": "/admin/job-applicant-lists",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\index.vue",
-    "chunkName": "pages/admin/job-applicant-lists/index",
-    "_name": "_7c00fd9b"
+    "chunkName": "pages/admin/job-applicant-lists/index"
   },
   {
     "name": "admin-jobs",
     "path": "/admin/jobs",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\jobs\\\\index.vue",
-    "chunkName": "pages/admin/jobs/index",
-    "_name": "_3ac00b6e"
+    "chunkName": "pages/admin/jobs/index"
   },
   {
     "name": "admin-mentors",
     "path": "/admin/mentors",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\index.vue",
-    "chunkName": "pages/admin/mentors/index",
-    "_name": "_6dbbc943"
+    "chunkName": "pages/admin/mentors/index"
   },
   {
     "name": "admin-news",
     "path": "/admin/news",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\index.vue",
-    "chunkName": "pages/admin/news/index",
-    "_name": "_08234bac"
+    "chunkName": "pages/admin/news/index"
   },
   {
     "name": "admin-old-organizations",
     "path": "/admin/old-organizations",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\old-organizations.vue",
-    "chunkName": "pages/admin/old-organizations",
-    "_name": "_7c24f872"
+    "chunkName": "pages/admin/old-organizations"
   },
   {
     "name": "admin-organizations",
     "path": "/admin/organizations",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\index.vue",
-    "chunkName": "pages/admin/organizations/index",
-    "_name": "_02891b75"
+    "chunkName": "pages/admin/organizations/index"
   },
   {
     "name": "admin-profile",
@@ -188,32 +163,27 @@
         "name": "admin-profile-2fa",
         "path": "2fa",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\2fa\\\\index.vue",
-        "chunkName": "pages/admin/profile/2fa/index",
-        "_name": "_083727fb"
+        "chunkName": "pages/admin/profile/2fa/index"
       },
       {
         "name": "admin-profile-general",
         "path": "general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\general.vue",
-        "chunkName": "pages/admin/profile/general",
-        "_name": "_535646bc"
+        "chunkName": "pages/admin/profile/general"
       },
       {
         "name": "admin-profile-invitations",
         "path": "invitations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\invitations\\\\index.vue",
-        "chunkName": "pages/admin/profile/invitations/index",
-        "_name": "_48902c4e"
+        "chunkName": "pages/admin/profile/invitations/index"
       },
       {
         "name": "admin-profile-password",
         "path": "password",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\profile\\\\password.vue",
-        "chunkName": "pages/admin/profile/password",
-        "_name": "_7f9b125e"
+        "chunkName": "pages/admin/profile/password"
       }
-    ],
-    "_name": "_106703b6"
+    ]
   },
   {
     "name": "admin-settings",
@@ -225,186 +195,159 @@
         "name": "admin-settings-collections",
         "path": "collections",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\index.vue",
-        "chunkName": "pages/admin/settings/collections/index",
-        "_name": "_09072ffa"
+        "chunkName": "pages/admin/settings/collections/index"
       },
       {
         "name": "admin-settings-consultations",
         "path": "consultations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\index.vue",
-        "chunkName": "pages/admin/settings/consultations/index",
-        "_name": "_43a1c7ee"
+        "chunkName": "pages/admin/settings/consultations/index"
       },
       {
         "name": "admin-settings-products",
         "path": "products",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\index.vue",
-        "chunkName": "pages/admin/settings/products/index",
-        "_name": "_fd4f6810"
+        "chunkName": "pages/admin/settings/products/index"
       },
       {
         "name": "admin-settings-roles",
         "path": "roles",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\index.vue",
-        "chunkName": "pages/admin/settings/roles/index",
-        "_name": "_70d4285b"
+        "chunkName": "pages/admin/settings/roles/index"
       },
       {
         "name": "admin-settings-tags",
         "path": "tags",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\index.vue",
-        "chunkName": "pages/admin/settings/tags/index",
-        "_name": "_615edf23"
+        "chunkName": "pages/admin/settings/tags/index"
       },
       {
         "name": "admin-settings-users",
         "path": "users",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\index.vue",
-        "chunkName": "pages/admin/settings/users/index",
-        "_name": "_6c8e3c30"
+        "chunkName": "pages/admin/settings/users/index"
       },
       {
         "name": "admin-settings-collections-create",
         "path": "collections/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\create.vue",
-        "chunkName": "pages/admin/settings/collections/create",
-        "_name": "_c87639ca"
+        "chunkName": "pages/admin/settings/collections/create"
       },
       {
         "name": "admin-settings-consultations-create",
         "path": "consultations/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\create.vue",
-        "chunkName": "pages/admin/settings/consultations/create",
-        "_name": "_584b8090"
+        "chunkName": "pages/admin/settings/consultations/create"
       },
       {
         "name": "admin-settings-products-create",
         "path": "products/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\create.vue",
-        "chunkName": "pages/admin/settings/products/create",
-        "_name": "_5d350474"
+        "chunkName": "pages/admin/settings/products/create"
       },
       {
         "name": "admin-settings-roles-create",
         "path": "roles/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\create.vue",
-        "chunkName": "pages/admin/settings/roles/create",
-        "_name": "_5d35a47a"
+        "chunkName": "pages/admin/settings/roles/create"
       },
       {
         "name": "admin-settings-tags-create",
         "path": "tags/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\create.vue",
-        "chunkName": "pages/admin/settings/tags/create",
-        "_name": "_1b9d600a"
+        "chunkName": "pages/admin/settings/tags/create"
       },
       {
         "name": "admin-settings-users-invitation",
         "path": "users/invitation",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\invitation.vue",
-        "chunkName": "pages/admin/settings/users/invitation",
-        "_name": "_5414c7ab"
+        "chunkName": "pages/admin/settings/users/invitation"
       },
       {
         "name": "admin-settings-collections-id",
         "path": "collections/:id",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\collections\\\\_id.vue",
-        "chunkName": "pages/admin/settings/collections/_id",
-        "_name": "_400ae1aa"
+        "chunkName": "pages/admin/settings/collections/_id"
       },
       {
         "name": "admin-settings-consultations-id",
         "path": "consultations/:id",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\_id\\\\index.vue",
-        "chunkName": "pages/admin/settings/consultations/_id/index",
-        "_name": "_045c49ec"
+        "chunkName": "pages/admin/settings/consultations/_id/index"
       },
       {
         "name": "admin-settings-products-id",
         "path": "products/:id",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\products\\\\_id.vue",
-        "chunkName": "pages/admin/settings/products/_id",
-        "_name": "_6bf8ec60"
+        "chunkName": "pages/admin/settings/products/_id"
       },
       {
         "name": "admin-settings-roles-id",
         "path": "roles/:id",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\roles\\\\_id.vue",
-        "chunkName": "pages/admin/settings/roles/_id",
-        "_name": "_f712f4fa"
+        "chunkName": "pages/admin/settings/roles/_id"
       },
       {
         "name": "admin-settings-tags-id",
         "path": "tags/:id",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\tags\\\\_id.vue",
-        "chunkName": "pages/admin/settings/tags/_id",
-        "_name": "_04504e4b"
+        "chunkName": "pages/admin/settings/tags/_id"
       },
       {
         "name": "admin-settings-users-id",
         "path": "users/:id",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\users\\\\_id.vue",
-        "chunkName": "pages/admin/settings/users/_id",
-        "_name": "_3ddd8a98"
+        "chunkName": "pages/admin/settings/users/_id"
       },
       {
         "name": "admin-settings-consultations-id-form",
         "path": "consultations/:id/form",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\settings\\\\consultations\\\\_id\\\\form.vue",
-        "chunkName": "pages/admin/settings/consultations/_id/form",
-        "_name": "_ed90c4cc"
+        "chunkName": "pages/admin/settings/consultations/_id/form"
       }
-    ],
-    "_name": "_53ff4034"
+    ]
   },
   {
     "name": "admin-students",
     "path": "/admin/students",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\index.vue",
-    "chunkName": "pages/admin/students/index",
-    "_name": "_7ccd5d72"
+    "chunkName": "pages/admin/students/index"
   },
   {
     "name": "admin-auth-forgot-password",
     "path": "/admin/auth/forgot-password",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\forgot-password.vue",
-    "chunkName": "pages/admin/auth/forgot-password",
-    "_name": "_38c4e5ac"
+    "chunkName": "pages/admin/auth/forgot-password"
   },
   {
     "name": "admin-auth-login",
     "path": "/admin/auth/login",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\login.vue",
-    "chunkName": "pages/admin/auth/login",
-    "_name": "_3f57f4ce"
+    "chunkName": "pages/admin/auth/login"
   },
   {
     "name": "admin-auth-reset-password",
     "path": "/admin/auth/reset-password",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\reset-password.vue",
-    "chunkName": "pages/admin/auth/reset-password",
-    "_name": "_6aa28278"
+    "chunkName": "pages/admin/auth/reset-password"
   },
   {
     "name": "admin-auth-signup",
     "path": "/admin/auth/signup",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\signup.vue",
-    "chunkName": "pages/admin/auth/signup",
-    "_name": "_0ffedbfa"
+    "chunkName": "pages/admin/auth/signup"
   },
   {
     "name": "admin-auth-two-factor-challenge",
     "path": "/admin/auth/two-factor-challenge",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\two-factor-challenge.vue",
-    "chunkName": "pages/admin/auth/two-factor-challenge",
-    "_name": "_6fdf7371"
+    "chunkName": "pages/admin/auth/two-factor-challenge"
   },
   {
     "name": "admin-auth-two-factor-challenge-recovery",
     "path": "/admin/auth/two-factor-challenge-recovery",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\auth\\\\two-factor-challenge-recovery.vue",
-    "chunkName": "pages/admin/auth/two-factor-challenge-recovery",
-    "_name": "_5ca9a7a1"
+    "chunkName": "pages/admin/auth/two-factor-challenge-recovery"
   },
   {
     "name": "admin-course-applicant-lists-course-application-view",
@@ -416,60 +359,51 @@
         "name": "admin-course-applicant-lists-course-application-view-id-certifications",
         "path": ":id?/certifications",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\certifications\\\\index.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/certifications/index",
-        "_name": "_3b5e2a68"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/certifications/index"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-educations",
         "path": ":id?/educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/educations/index",
-        "_name": "_1d8e2854"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/educations/index"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-general",
         "path": ":id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/general",
-        "_name": "_50b8b7d7"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/general"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\hobbies-and-list.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/hobbies-and-list",
-        "_name": "_419d0c9c"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-projects",
         "path": ":id?/projects",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\projects\\\\index.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/projects/index",
-        "_name": "_ed27b0f2"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/projects/index"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/certifications/_id/general",
-        "_name": "_52f516c8"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/educations/_id/general",
-        "_name": "_cd1f04cc"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/educations/_id/general"
       },
       {
         "name": "admin-course-applicant-lists-course-application-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\course-applicant-lists\\\\course-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/projects/_id/general",
-        "_name": "_ac362e6e"
+        "chunkName": "pages/admin/course-applicant-lists/course-application-view/_id/projects/_id/general"
       }
-    ],
-    "_name": "_86eb0fae"
+    ]
   },
   {
     "name": "admin-courses-create-course",
@@ -481,39 +415,33 @@
         "name": "admin-courses-create-course-general",
         "path": "general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\general.vue",
-        "chunkName": "pages/admin/courses/create-course/general",
-        "_name": "_7eab29a1"
+        "chunkName": "pages/admin/courses/create-course/general"
       },
       {
         "name": "admin-courses-create-course-id-contents",
         "path": ":id?/contents",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\index.vue",
-        "chunkName": "pages/admin/courses/create-course/_id/contents/index",
-        "_name": "_7734be15"
+        "chunkName": "pages/admin/courses/create-course/_id/contents/index"
       },
       {
         "name": "admin-courses-create-course-id-description",
         "path": ":id?/description",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\description.vue",
-        "chunkName": "pages/admin/courses/create-course/_id/description",
-        "_name": "_5a7a0999"
+        "chunkName": "pages/admin/courses/create-course/_id/description"
       },
       {
         "name": "admin-courses-create-course-id-contents-create",
         "path": ":id?/contents/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\create.vue",
-        "chunkName": "pages/admin/courses/create-course/_id/contents/create",
-        "_name": "_d1d1616e"
+        "chunkName": "pages/admin/courses/create-course/_id/contents/create"
       },
       {
         "name": "admin-courses-create-course-id-contents-id-general",
         "path": ":id?/contents/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\create-course\\\\_id\\\\contents\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/courses/create-course/_id/contents/_id/general",
-        "_name": "_8b63130a"
+        "chunkName": "pages/admin/courses/create-course/_id/contents/_id/general"
       }
-    ],
-    "_name": "_45994bd7"
+    ]
   },
   {
     "name": "admin-courses-edit-course",
@@ -525,39 +453,33 @@
         "name": "admin-courses-edit-course-id-edit-contents",
         "path": ":id?/edit-contents",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\index.vue",
-        "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/index",
-        "_name": "_0c684c94"
+        "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/index"
       },
       {
         "name": "admin-courses-edit-course-id-general",
         "path": ":id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/courses/edit-course/_id/general",
-        "_name": "_17d04277"
+        "chunkName": "pages/admin/courses/edit-course/_id/general"
       },
       {
         "name": "admin-courses-edit-course-id-student-applied-courses",
         "path": ":id?/student-applied-courses",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\student-applied-courses\\\\index.vue",
-        "chunkName": "pages/admin/courses/edit-course/_id/student-applied-courses/index",
-        "_name": "_5053cd7d"
+        "chunkName": "pages/admin/courses/edit-course/_id/student-applied-courses/index"
       },
       {
         "name": "admin-courses-edit-course-id-edit-contents-create",
         "path": ":id?/edit-contents/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\create.vue",
-        "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/create",
-        "_name": "_6763a7c8"
+        "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/create"
       },
       {
         "name": "admin-courses-edit-course-id-edit-contents-id-general",
         "path": ":id?/edit-contents/:id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\courses\\\\edit-course\\\\_id\\\\edit-contents\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/_id/general",
-        "_name": "_f79f988c"
+        "chunkName": "pages/admin/courses/edit-course/_id/edit-contents/_id/general"
       }
-    ],
-    "_name": "_b979ca6e"
+    ]
   },
   {
     "name": "admin-event-applicant-lists-event-application-view",
@@ -569,67 +491,57 @@
         "name": "admin-event-applicant-lists-event-application-view-id-certifications",
         "path": ":id?/certifications",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\certifications\\\\index.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/certifications/index",
-        "_name": "_30412138"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/certifications/index"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-educations",
         "path": ":id?/educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/educations/index",
-        "_name": "_5947caa6"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/educations/index"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-general",
         "path": ":id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/general",
-        "_name": "_7f38daa7"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/general"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\hobbies-and-list.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/hobbies-and-list",
-        "_name": "_3d6380e2"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-projects",
         "path": ":id?/projects",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\projects\\\\index.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/projects/index",
-        "_name": "_73770b52"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/projects/index"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/certifications/_id/general",
-        "_name": "_43e5d5f8"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/educations/_id/general",
-        "_name": "_518054ca"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/educations/_id/general"
       },
       {
         "name": "admin-event-applicant-lists-event-application-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\event-applicant-lists\\\\event-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/projects/_id/general",
-        "_name": "_5160cbf9"
+        "chunkName": "pages/admin/event-applicant-lists/event-application-view/_id/projects/_id/general"
       }
-    ],
-    "_name": "_1836720e"
+    ]
   },
   {
     "name": "admin-events-create",
     "path": "/admin/events/create",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create.vue",
-    "chunkName": "pages/admin/events/create",
-    "_name": "_0d2a19d0"
+    "chunkName": "pages/admin/events/create"
   },
   {
     "name": "admin-events-create-event",
@@ -641,18 +553,15 @@
         "name": "admin-events-create-event-general",
         "path": "general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event\\\\general.vue",
-        "chunkName": "pages/admin/events/create-event/general",
-        "_name": "_79f2c213"
+        "chunkName": "pages/admin/events/create-event/general"
       },
       {
         "name": "admin-events-create-event-id-description",
         "path": ":id?/description",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\create-event\\\\_id\\\\description.vue",
-        "chunkName": "pages/admin/events/create-event/_id/description",
-        "_name": "_fa1c5d32"
+        "chunkName": "pages/admin/events/create-event/_id/description"
       }
-    ],
-    "_name": "_c20de9b6"
+    ]
   },
   {
     "name": "admin-job-applicant-lists-job-application-view",
@@ -664,60 +573,51 @@
         "name": "admin-job-applicant-lists-job-application-view-id-certifications",
         "path": ":id?/certifications",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\certifications\\\\index.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/certifications/index",
-        "_name": "_60e00598"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/certifications/index"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-educations",
         "path": ":id?/educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/educations/index",
-        "_name": "_2ac7df06"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/educations/index"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-general",
         "path": ":id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/general",
-        "_name": "_0594e707"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/general"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\hobbies-and-list.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/hobbies-and-list",
-        "_name": "_2b5f6082"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-projects",
         "path": ":id?/projects",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\projects\\\\index.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/projects/index",
-        "_name": "_0103b292"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/projects/index"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/certifications/_id/general",
-        "_name": "_45ef4598"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/educations/_id/general",
-        "_name": "_5bf2946a"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/educations/_id/general"
       },
       {
         "name": "admin-job-applicant-lists-job-application-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\job-applicant-lists\\\\job-application-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/projects/_id/general",
-        "_name": "_349e7399"
+        "chunkName": "pages/admin/job-applicant-lists/job-application-view/_id/projects/_id/general"
       }
-    ],
-    "_name": "_1eb8094e"
+    ]
   },
   {
     "name": "admin-mentors-add-mentor",
@@ -729,74 +629,63 @@
         "name": "admin-mentors-add-mentor-create",
         "path": "create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\create.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/create",
-        "_name": "_b1115470"
+        "chunkName": "pages/admin/mentors/add-mentor/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-educations",
         "path": ":id?/educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/educations/index",
-        "_name": "_d8d6540e"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/educations/index"
       },
       {
         "name": "admin-mentors-add-mentor-id-sessions",
         "path": ":id?/sessions",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\index.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/index",
-        "_name": "_0bdbbb32"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/index"
       },
       {
         "name": "admin-mentors-add-mentor-id-work-experiences",
         "path": ":id?/work-experiences",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\index.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/index",
-        "_name": "_3c377112"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/index"
       },
       {
         "name": "admin-mentors-add-mentor-id-educations-create",
         "path": ":id?/educations/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\create.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/educations/create",
-        "_name": "_06ba33e5"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/educations/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-sessions-create",
         "path": ":id?/sessions/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\create.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/create",
-        "_name": "_6fe67537"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-work-experiences-create",
         "path": ":id?/work-experiences/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\create.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/create",
-        "_name": "_fb4e1bb2"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/create"
       },
       {
         "name": "admin-mentors-add-mentor-id-educations-id-general",
         "path": ":id?/educations/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\educations\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/educations/_id/general",
-        "_name": "_9cfb13d2"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/educations/_id/general"
       },
       {
         "name": "admin-mentors-add-mentor-id-sessions-id-general",
         "path": ":id?/sessions/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\sessions\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/_id/general",
-        "_name": "_1f0e1c2e"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/sessions/_id/general"
       },
       {
         "name": "admin-mentors-add-mentor-id-work-experiences-id-general",
         "path": ":id?/work-experiences/:id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\add-mentor\\\\_id\\\\work-experiences\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/_id/general",
-        "_name": "_01f5fad9"
+        "chunkName": "pages/admin/mentors/add-mentor/_id/work-experiences/_id/general"
       }
-    ],
-    "_name": "_6c84db4c"
+    ]
   },
   {
     "name": "admin-mentors-edit-mentor",
@@ -808,95 +697,81 @@
         "name": "admin-mentors-edit-mentor-id-educations",
         "path": ":id?/educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/index",
-        "_name": "_756b9d7c"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/index"
       },
       {
         "name": "admin-mentors-edit-mentor-id-general",
         "path": ":id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/general",
-        "_name": "_60b19443"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/general"
       },
       {
         "name": "admin-mentors-edit-mentor-id-sessions",
         "path": ":id?/sessions",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\index.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/index",
-        "_name": "_fa708820"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/index"
       },
       {
         "name": "admin-mentors-edit-mentor-id-work-experiences",
         "path": ":id?/work-experiences",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\index.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/index",
-        "_name": "_24904800"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/index"
       },
       {
         "name": "admin-mentors-edit-mentor-id-educations-create",
         "path": ":id?/educations/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\create.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/create",
-        "_name": "_0bb041bc"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/create"
       },
       {
         "name": "admin-mentors-edit-mentor-id-sessions-create",
         "path": ":id?/sessions/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\create.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/create",
-        "_name": "_0437e664"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/create"
       },
       {
         "name": "admin-mentors-edit-mentor-id-work-experiences-create",
         "path": ":id?/work-experiences/create",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\create.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/create",
-        "_name": "_d5a5fa84"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/create"
       },
       {
         "name": "admin-mentors-edit-mentor-id-educations-id-general",
         "path": ":id?/educations/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\educations\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/_id/general",
-        "_name": "_7752f2a4"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/educations/_id/general"
       },
       {
         "name": "admin-mentors-edit-mentor-id-sessions-id-general",
         "path": ":id?/sessions/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\sessions\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/_id/general",
-        "_name": "_4d763c40"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/sessions/_id/general"
       },
       {
         "name": "admin-mentors-edit-mentor-id-work-experiences-id-general",
         "path": ":id?/work-experiences/:id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\mentors\\\\edit-mentor\\\\_id\\\\work-experiences\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/_id/general",
-        "_name": "_3d4afe30"
+        "chunkName": "pages/admin/mentors/edit-mentor/_id/work-experiences/_id/general"
       }
-    ],
-    "_name": "_20c64195"
+    ]
   },
   {
     "name": "admin-news-create-news-test",
     "path": "/admin/news/create-news-test",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news-test.vue",
-    "chunkName": "pages/admin/news/create-news-test",
-    "_name": "_a2f5535e"
+    "chunkName": "pages/admin/news/create-news-test"
   },
   {
     "name": "admin-organizations-invitations",
     "path": "/admin/organizations/invitations",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\invitations\\\\index.vue",
-    "chunkName": "pages/admin/organizations/invitations/index",
-    "_name": "_290b7b85"
+    "chunkName": "pages/admin/organizations/invitations/index"
   },
   {
     "name": "admin-students-skills-and-hobbies",
     "path": "/admin/students/skills-and-hobbies",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\skills-and-hobbies\\\\index.vue",
-    "chunkName": "pages/admin/students/skills-and-hobbies/index",
-    "_name": "_47ca5a10"
+    "chunkName": "pages/admin/students/skills-and-hobbies/index"
   },
   {
     "name": "admin-students-student-view",
@@ -908,81 +783,69 @@
         "name": "admin-students-student-view-id-certifications",
         "path": ":id?/certifications",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\certifications\\\\index.vue",
-        "chunkName": "pages/admin/students/student-view/_id/certifications/index",
-        "_name": "_776c9f51"
+        "chunkName": "pages/admin/students/student-view/_id/certifications/index"
       },
       {
         "name": "admin-students-student-view-id-educations",
         "path": ":id?/educations",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\educations\\\\index.vue",
-        "chunkName": "pages/admin/students/student-view/_id/educations/index",
-        "_name": "_94df8582"
+        "chunkName": "pages/admin/students/student-view/_id/educations/index"
       },
       {
         "name": "admin-students-student-view-id-general",
         "path": ":id?/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/students/student-view/_id/general",
-        "_name": "_0f7a0880"
+        "chunkName": "pages/admin/students/student-view/_id/general"
       },
       {
         "name": "admin-students-student-view-id-hobbies-and-list",
         "path": ":id?/hobbies-and-list",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\hobbies-and-list.vue",
-        "chunkName": "pages/admin/students/student-view/_id/hobbies-and-list",
-        "_name": "_6165d729"
+        "chunkName": "pages/admin/students/student-view/_id/hobbies-and-list"
       },
       {
         "name": "admin-students-student-view-id-projects",
         "path": ":id?/projects",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\projects\\\\index.vue",
-        "chunkName": "pages/admin/students/student-view/_id/projects/index",
-        "_name": "_3b0abf30"
+        "chunkName": "pages/admin/students/student-view/_id/projects/index"
       },
       {
         "name": "admin-students-student-view-id-certifications-id-general",
         "path": ":id?/certifications/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\certifications\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/students/student-view/_id/certifications/_id/general",
-        "_name": "_c1240c82"
+        "chunkName": "pages/admin/students/student-view/_id/certifications/_id/general"
       },
       {
         "name": "admin-students-student-view-id-educations-id-general",
         "path": ":id?/educations/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\educations\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/students/student-view/_id/educations/_id/general",
-        "_name": "_6fc77411"
+        "chunkName": "pages/admin/students/student-view/_id/educations/_id/general"
       },
       {
         "name": "admin-students-student-view-id-projects-id-general",
         "path": ":id?/projects/:id/general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\students\\\\student-view\\\\_id\\\\projects\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/students/student-view/_id/projects/_id/general",
-        "_name": "_20b5de00"
+        "chunkName": "pages/admin/students/student-view/_id/projects/_id/general"
       }
-    ],
-    "_name": "_51863492"
+    ]
   },
   {
     "name": "admin-news-create-news-general",
     "path": "/admin/news/create-news/general",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news\\\\general.vue",
-    "chunkName": "pages/admin/news/create-news/general",
-    "_name": "_661133fa"
+    "chunkName": "pages/admin/news/create-news/general"
   },
   {
     "name": "admin-organizations-company-create",
     "path": "/admin/organizations/company/create",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\company\\\\create.vue",
-    "chunkName": "pages/admin/organizations/company/create",
-    "_name": "_55e6f15c"
+    "chunkName": "pages/admin/organizations/company/create"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_69d23786"
+    "chunkName": "pages/index"
   },
   {
     "name": "admin-events-edit-event-id",
@@ -994,94 +857,80 @@
         "name": "admin-events-edit-event-id-description",
         "path": "description",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\description.vue",
-        "chunkName": "pages/admin/events/edit-event/_id/description",
-        "_name": "_5f3b2e75"
+        "chunkName": "pages/admin/events/edit-event/_id/description"
       },
       {
         "name": "admin-events-edit-event-id-general",
         "path": "general",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\general.vue",
-        "chunkName": "pages/admin/events/edit-event/_id/general",
-        "_name": "_8c2b143e"
+        "chunkName": "pages/admin/events/edit-event/_id/general"
       },
       {
         "name": "admin-events-edit-event-id-student-applied-events",
         "path": "student-applied-events",
         "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\edit-event\\\\_id\\\\student-applied-events\\\\index.vue",
-        "chunkName": "pages/admin/events/edit-event/_id/student-applied-events/index",
-        "_name": "_48205d20"
+        "chunkName": "pages/admin/events/edit-event/_id/student-applied-events/index"
       }
-    ],
-    "_name": "_52e73797"
+    ]
   },
   {
     "name": "admin-news-edit-news-id-test",
     "path": "/admin/news/edit-news/:id-test?",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id-test.vue",
-    "chunkName": "pages/admin/news/edit-news/_id-test",
-    "_name": "_49bb4f56"
+    "chunkName": "pages/admin/news/edit-news/_id-test"
   },
   {
     "name": "admin-organizations-company-id",
     "path": "/admin/organizations/company/:id?",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\organizations\\\\company\\\\_id.vue",
-    "chunkName": "pages/admin/organizations/company/_id",
-    "_name": "_4cefdeec"
+    "chunkName": "pages/admin/organizations/company/_id"
   },
   {
     "name": "admin-news-create-news-id-description",
     "path": "/admin/news/create-news/:id?/description",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\create-news\\\\_id\\\\description.vue",
-    "chunkName": "pages/admin/news/create-news/_id/description",
-    "_name": "_31c79360"
+    "chunkName": "pages/admin/news/create-news/_id/description"
   },
   {
     "name": "admin-news-edit-news-id-description",
     "path": "/admin/news/edit-news/:id?/description",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id\\\\description.vue",
-    "chunkName": "pages/admin/news/edit-news/_id/description",
-    "_name": "_18bff612"
+    "chunkName": "pages/admin/news/edit-news/_id/description"
   },
   {
     "name": "admin-news-edit-news-id-general",
     "path": "/admin/news/edit-news/:id?/general",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\edit-news\\\\_id\\\\general.vue",
-    "chunkName": "pages/admin/news/edit-news/_id/general",
-    "_name": "_189593fe"
+    "chunkName": "pages/admin/news/edit-news/_id/general"
   },
   {
     "name": "admin-companies-id-application",
     "path": "/admin/companies/:id/application",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\companies\\\\_id\\\\application.vue",
-    "chunkName": "pages/admin/companies/_id/application",
-    "_name": "_7170cc7e"
+    "chunkName": "pages/admin/companies/_id/application"
   },
   {
     "name": "admin-events-id-general",
     "path": "/admin/events/:id/general",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\events\\\\_id\\\\general.vue",
-    "chunkName": "pages/admin/events/_id/general",
-    "_name": "_3045c30a"
+    "chunkName": "pages/admin/events/_id/general"
   },
   {
     "name": "admin-feedbacks-id-application",
     "path": "/admin/feedbacks/:id/application",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\feedbacks\\\\_id\\\\application.vue",
-    "chunkName": "pages/admin/feedbacks/_id/application",
-    "_name": "_055057f1"
+    "chunkName": "pages/admin/feedbacks/_id/application"
   },
   {
     "name": "admin-jobs-id-application",
     "path": "/admin/jobs/:id/application",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\jobs\\\\_id\\\\application.vue",
-    "chunkName": "pages/admin/jobs/_id/application",
-    "_name": "_178be4af"
+    "chunkName": "pages/admin/jobs/_id/application"
   },
   {
     "name": "admin-news-id-general",
     "path": "/admin/news/:id/general",
     "component": "D:\\\\chamika\\\\ayeshi\\\\sussex-college\\\\sussex-admin-frontend\\\\pages\\\\admin\\\\news\\\\_id\\\\general.vue",
-    "chunkName": "pages/admin/news/_id/general",
-    "_name": "_2d28c104"
+    "chunkName": "pages/admin/news/_id/general"
   }
 ]
